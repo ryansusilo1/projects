@@ -1,0 +1,2953 @@
+,Ticker,Attribute,Recent
+0,A,Market Cap (intraday) 5,46.31B
+1,A,Enterprise Value 3,47.74B
+2,A,Trailing P/E,47.65
+3,A,Forward P/E 1,31.35
+4,A,PEG Ratio (5 yr expected) 1,2.12
+5,A,Price/Sales (ttm),7.68
+6,A,Price/Book (mrq),9.36
+7,A,Enterprise Value/Revenue 3,7.55
+8,A,Enterprise Value/EBITDA 7,27.09
+9,AAL,Market Cap (intraday) 5,12.61B
+10,AAL,Enterprise Value 3,44.73B
+11,AAL,Trailing P/E,2.81
+12,AAL,Forward P/E 1,1.00k
+13,AAL,PEG Ratio (5 yr expected) 1,
+14,AAL,Price/Sales (ttm),0.50
+15,AAL,Price/Book (mrq),
+16,AAL,Enterprise Value/Revenue 3,1.83
+17,AAL,Enterprise Value/EBITDA 7,-18.20
+18,AAP,Market Cap (intraday) 5,14.70B
+19,AAP,Enterprise Value 3,17.29B
+20,AAP,Trailing P/E,23.91
+21,AAP,Forward P/E 1,18.62
+22,AAP,PEG Ratio (5 yr expected) 1,1.14
+23,AAP,Price/Sales (ttm),1.41
+24,AAP,Price/Book (mrq),4.60
+25,AAP,Enterprise Value/Revenue 3,1.58
+26,AAP,Enterprise Value/EBITDA 7,15.22
+27,AAPL,Market Cap (intraday) 5,2.66T
+28,AAPL,Enterprise Value 3,2.72T
+29,AAPL,Trailing P/E,28.87
+30,AAPL,Forward P/E 1,28.99
+31,AAPL,PEG Ratio (5 yr expected) 1,3.48
+32,AAPL,Price/Sales (ttm),7.47
+33,AAPL,Price/Book (mrq),42.11
+34,AAPL,Enterprise Value/Revenue 3,7.43
+35,AAPL,Enterprise Value/EBITDA 7,22.08
+36,ABBV,Market Cap (intraday) 5,209.78B
+37,ABBV,Enterprise Value 3,278.25B
+38,ABBV,Trailing P/E,28.66
+39,ABBV,Forward P/E 1,8.56
+40,ABBV,PEG Ratio (5 yr expected) 1,
+41,ABBV,Price/Sales (ttm),3.82
+42,ABBV,Price/Book (mrq),15.48
+43,ABBV,Enterprise Value/Revenue 3,5.04
+44,ABBV,Enterprise Value/EBITDA 7,15.21
+45,ABC,Market Cap (intraday) 5,25.65B
+46,ABC,Enterprise Value 3,29.79B
+47,ABC,Trailing P/E,16.70
+48,ABC,Forward P/E 1,11.70
+49,ABC,PEG Ratio (5 yr expected) 1,1.52
+50,ABC,Price/Sales (ttm),0.12
+51,ABC,Price/Book (mrq),43.89
+52,ABC,Enterprise Value/Revenue 3,0.14
+53,ABC,Enterprise Value/EBITDA 7,10.27
+54,ABMD,Market Cap (intraday) 5,15.37B
+55,ABMD,Enterprise Value 3,14.72B
+56,ABMD,Trailing P/E,103.61
+57,ABMD,Forward P/E 1,
+58,ABMD,PEG Ratio (5 yr expected) 1,
+59,ABMD,Price/Sales (ttm),15.89
+60,ABMD,Price/Book (mrq),11.10
+61,ABMD,Enterprise Value/Revenue 3,15.12
+62,ABMD,Enterprise Value/EBITDA 7,51.17
+63,ABT,Market Cap (intraday) 5,222.59B
+64,ABT,Enterprise Value 3,231.30B
+65,ABT,Trailing P/E,31.24
+66,ABT,Forward P/E 1,26.53
+67,ABT,PEG Ratio (5 yr expected) 1,2.45
+68,ABT,Price/Sales (ttm),5.33
+69,ABT,Price/Book (mrq),6.47
+70,ABT,Enterprise Value/Revenue 3,5.47
+71,ABT,Enterprise Value/EBITDA 7,18.76
+72,ACN,Market Cap (intraday) 5,227.83B
+73,ACN,Enterprise Value 3,223.17B
+74,ACN,Trailing P/E,39.38
+75,ACN,Forward P/E 1,35.46
+76,ACN,PEG Ratio (5 yr expected) 1,3.35
+77,ACN,Price/Sales (ttm),4.61
+78,ACN,Price/Book (mrq),11.67
+79,ACN,Enterprise Value/Revenue 3,4.42
+80,ACN,Enterprise Value/EBITDA 7,22.98
+81,ADBE,Market Cap (intraday) 5,316.48B
+82,ADBE,Enterprise Value 3,315.00B
+83,ADBE,Trailing P/E,55.06
+84,ADBE,Forward P/E 1,46.73
+85,ADBE,PEG Ratio (5 yr expected) 1,2.41
+86,ADBE,Price/Sales (ttm),21.20
+87,ADBE,Price/Book (mrq),21.96
+88,ADBE,Enterprise Value/Revenue 3,20.86
+89,ADBE,Enterprise Value/EBITDA 7,49.85
+90,ADI,Market Cap (intraday) 5,98.06B
+91,ADI,Enterprise Value 3,101.73B
+92,ADI,Trailing P/E,39.93
+93,ADI,Forward P/E 1,25.06
+94,ADI,PEG Ratio (5 yr expected) 1,1.97
+95,ADI,Price/Sales (ttm),10.45
+96,ADI,Price/Book (mrq),8.00
+97,ADI,Enterprise Value/Revenue 3,13.90
+98,ADI,Enterprise Value/EBITDA 7,39.31
+99,ADM,Market Cap (intraday) 5,37.10B
+100,ADM,Enterprise Value 3,45.98B
+101,ADM,Trailing P/E,14.32
+102,ADM,Forward P/E 1,14.18
+103,ADM,PEG Ratio (5 yr expected) 1,3.17
+104,ADM,Price/Sales (ttm),0.47
+105,ADM,Price/Book (mrq),1.69
+106,ADM,Enterprise Value/Revenue 3,0.57
+107,ADM,Enterprise Value/EBITDA 7,10.69
+108,ADP,Market Cap (intraday) 5,98.76B
+109,ADP,Enterprise Value 3,100.53B
+110,ADP,Trailing P/E,37.08
+111,ADP,Forward P/E 1,34.60
+112,ADP,PEG Ratio (5 yr expected) 1,3.30
+113,ADP,Price/Sales (ttm),6.51
+114,ADP,Price/Book (mrq),18.46
+115,ADP,Enterprise Value/Revenue 3,6.54
+116,ADP,Enterprise Value/EBITDA 7,24.71
+117,ADSK,Market Cap (intraday) 5,66.83B
+118,ADSK,Enterprise Value 3,67.99B
+119,ADSK,Trailing P/E,51.35
+120,ADSK,Forward P/E 1,43.48
+121,ADSK,PEG Ratio (5 yr expected) 1,1.58
+122,ADSK,Price/Sales (ttm),16.72
+123,ADSK,Price/Book (mrq),50.33
+124,ADSK,Enterprise Value/Revenue 3,16.83
+125,ADSK,Enterprise Value/EBITDA 7,87.42
+126,AEE,Market Cap (intraday) 5,21.77B
+127,AEE,Enterprise Value 3,34.82B
+128,AEE,Trailing P/E,22.12
+129,AEE,Forward P/E 1,20.75
+130,AEE,PEG Ratio (5 yr expected) 1,2.75
+131,AEE,Price/Sales (ttm),3.49
+132,AEE,Price/Book (mrq),2.25
+133,AEE,Enterprise Value/Revenue 3,5.64
+134,AEE,Enterprise Value/EBITDA 7,12.84
+135,AEP,Market Cap (intraday) 5,41.61B
+136,AEP,Enterprise Value 3,77.93B
+137,AEP,Trailing P/E,17.61
+138,AEP,Forward P/E 1,16.81
+139,AEP,PEG Ratio (5 yr expected) 1,2.90
+140,AEP,Price/Sales (ttm),2.56
+141,AEP,Price/Book (mrq),1.87
+142,AEP,Enterprise Value/Revenue 3,4.77
+143,AEP,Enterprise Value/EBITDA 7,11.74
+144,AES,Market Cap (intraday) 5,16.41B
+145,AES,Enterprise Value 3,35.88B
+146,AES,Trailing P/E,31.55
+147,AES,Forward P/E 1,15.02
+148,AES,PEG Ratio (5 yr expected) 1,1.88
+149,AES,Price/Sales (ttm),1.56
+150,AES,Price/Book (mrq),6.73
+151,AES,Enterprise Value/Revenue 3,3.28
+152,AES,Enterprise Value/EBITDA 7,11.69
+153,AFL,Market Cap (intraday) 5,37.71B
+154,AFL,Enterprise Value 3,39.57B
+155,AFL,Trailing P/E,9.22
+156,AFL,Forward P/E 1,10.93
+157,AFL,PEG Ratio (5 yr expected) 1,
+158,AFL,Price/Sales (ttm),1.74
+159,AFL,Price/Book (mrq),1.12
+160,AFL,Enterprise Value/Revenue 3,1.76
+161,AFL,Enterprise Value/EBITDA 7,
+162,AIG,Market Cap (intraday) 5,48.07B
+163,AIG,Enterprise Value 3,77.40B
+164,AIG,Trailing P/E,9.09
+165,AIG,Forward P/E 1,10.88
+166,AIG,PEG Ratio (5 yr expected) 1,
+167,AIG,Price/Sales (ttm),1.06
+168,AIG,Price/Book (mrq),0.75
+169,AIG,Enterprise Value/Revenue 3,1.62
+170,AIG,Enterprise Value/EBITDA 7,
+171,AIZ,Market Cap (intraday) 5,9.23B
+172,AIZ,Enterprise Value 3,9.40B
+173,AIZ,Trailing P/E,18.68
+174,AIZ,Forward P/E 1,12.92
+175,AIZ,PEG Ratio (5 yr expected) 1,
+176,AIZ,Price/Sales (ttm),0.94
+177,AIZ,Price/Book (mrq),1.61
+178,AIZ,Enterprise Value/Revenue 3,0.89
+179,AIZ,Enterprise Value/EBITDA 7,
+180,AJG,Market Cap (intraday) 5,34.50B
+181,AJG,Enterprise Value 3,37.55B
+182,AJG,Trailing P/E,36.18
+183,AJG,Forward P/E 1,29.41
+184,AJG,PEG Ratio (5 yr expected) 1,
+185,AJG,Price/Sales (ttm),4.26
+186,AJG,Price/Book (mrq),4.10
+187,AJG,Enterprise Value/Revenue 3,4.73
+188,AJG,Enterprise Value/EBITDA 7,21.32
+189,AKAM,Market Cap (intraday) 5,18.19B
+190,AKAM,Enterprise Value 3,19.12B
+191,AKAM,Trailing P/E,30.75
+192,AKAM,Forward P/E 1,18.87
+193,AKAM,PEG Ratio (5 yr expected) 1,1.58
+194,AKAM,Price/Sales (ttm),5.46
+195,AKAM,Price/Book (mrq),3.97
+196,AKAM,Enterprise Value/Revenue 3,5.62
+197,AKAM,Enterprise Value/EBITDA 7,14.89
+198,ALB,Market Cap (intraday) 5,31.22B
+199,ALB,Enterprise Value 3,32.64B
+200,ALB,Trailing P/E,141.19
+201,ALB,Forward P/E 1,47.85
+202,ALB,PEG Ratio (5 yr expected) 1,2.24
+203,ALB,Price/Sales (ttm),9.18
+204,ALB,Price/Book (mrq),5.48
+205,ALB,Enterprise Value/Revenue 3,9.85
+206,ALB,Enterprise Value/EBITDA 7,63.63
+207,ALGN,Market Cap (intraday) 5,51.83B
+208,ALGN,Enterprise Value 3,50.69B
+209,ALGN,Trailing P/E,71.06
+210,ALGN,Forward P/E 1,50.25
+211,ALGN,PEG Ratio (5 yr expected) 1,3.78
+212,ALGN,Price/Sales (ttm),13.94
+213,ALGN,Price/Book (mrq),14.74
+214,ALGN,Enterprise Value/Revenue 3,13.49
+215,ALGN,Enterprise Value/EBITDA 7,47.25
+216,ALK,Market Cap (intraday) 5,6.20B
+217,ALK,Enterprise Value 3,7.12B
+218,ALK,Trailing P/E,1.24k
+219,ALK,Forward P/E 1,9.95
+220,ALK,PEG Ratio (5 yr expected) 1,
+221,ALK,Price/Sales (ttm),1.22
+222,ALK,Price/Book (mrq),1.75
+223,ALK,Enterprise Value/Revenue 3,1.40
+224,ALK,Enterprise Value/EBITDA 7,15.02
+225,ALL,Market Cap (intraday) 5,33.00B
+226,ALL,Enterprise Value 3,42.26B
+227,ALL,Trailing P/E,5.55
+228,ALL,Forward P/E 1,8.66
+229,ALL,PEG Ratio (5 yr expected) 1,2.06
+230,ALL,Price/Sales (ttm),0.68
+231,ALL,Price/Book (mrq),1.33
+232,ALL,Enterprise Value/Revenue 3,0.82
+233,ALL,Enterprise Value/EBITDA 7,
+234,ALLE,Market Cap (intraday) 5,11.84B
+235,ALLE,Enterprise Value 3,12.77B
+236,ALLE,Trailing P/E,25.94
+237,ALLE,Forward P/E 1,22.94
+238,ALLE,PEG Ratio (5 yr expected) 1,2.71
+239,ALLE,Price/Sales (ttm),4.17
+240,ALLE,Price/Book (mrq),13.70
+241,ALLE,Enterprise Value/Revenue 3,4.43
+242,ALLE,Enterprise Value/EBITDA 7,20.04
+243,AMAT,Market Cap (intraday) 5,134.46B
+244,AMAT,Enterprise Value 3,134.46B
+245,AMAT,Trailing P/E,23.27
+246,AMAT,Forward P/E 1,18.21
+247,AMAT,PEG Ratio (5 yr expected) 1,2.10
+248,AMAT,Price/Sales (ttm),5.93
+249,AMAT,Price/Book (mrq),10.98
+250,AMAT,Enterprise Value/Revenue 3,5.83
+251,AMAT,Enterprise Value/EBITDA 7,18.17
+252,AMCR,Market Cap (intraday) 5,18.05B
+253,AMCR,Enterprise Value 3,24.46B
+254,AMCR,Trailing P/E,19.39
+255,AMCR,Forward P/E 1,14.77
+256,AMCR,PEG Ratio (5 yr expected) 1,
+257,AMCR,Price/Sales (ttm),1.38
+258,AMCR,Price/Book (mrq),3.88
+259,AMCR,Enterprise Value/Revenue 3,1.85
+260,AMCR,Enterprise Value/EBITDA 7,12.38
+261,AMD,Market Cap (intraday) 5,181.04B
+262,AMD,Enterprise Value 3,178.02B
+263,AMD,Trailing P/E,46.13
+264,AMD,Forward P/E 1,45.66
+265,AMD,PEG Ratio (5 yr expected) 1,1.32
+266,AMD,Price/Sales (ttm),12.36
+267,AMD,Price/Book (mrq),25.37
+268,AMD,Enterprise Value/Revenue 3,11.99
+269,AMD,Enterprise Value/EBITDA 7,51.20
+270,AME,Market Cap (intraday) 5,33.10B
+271,AME,Enterprise Value 3,35.58B
+272,AME,Trailing P/E,35.87
+273,AME,Forward P/E 1,28.74
+274,AME,PEG Ratio (5 yr expected) 1,2.11
+275,AME,Price/Sales (ttm),6.35
+276,AME,Price/Book (mrq),5.05
+277,AME,Enterprise Value/Revenue 3,6.79
+278,AME,Enterprise Value/EBITDA 7,23.42
+279,AMGN,Market Cap (intraday) 5,115.20B
+280,AMGN,Enterprise Value 3,139.86B
+281,AMGN,Trailing P/E,21.09
+282,AMGN,Forward P/E 1,11.36
+283,AMGN,PEG Ratio (5 yr expected) 1,1.54
+284,AMGN,Price/Sales (ttm),4.59
+285,AMGN,Price/Book (mrq),14.02
+286,AMGN,Enterprise Value/Revenue 3,5.43
+287,AMGN,Enterprise Value/EBITDA 7,12.66
+288,AMP,Market Cap (intraday) 5,34.01B
+289,AMP,Enterprise Value 3,31.40B
+290,AMP,Trailing P/E,16.43
+291,AMP,Forward P/E 1,12.47
+292,AMP,PEG Ratio (5 yr expected) 1,0.94
+293,AMP,Price/Sales (ttm),2.85
+294,AMP,Price/Book (mrq),5.96
+295,AMP,Enterprise Value/Revenue 3,2.43
+296,AMP,Enterprise Value/EBITDA 7,
+297,AMT,Market Cap (intraday) 5,120.90B
+298,AMT,Enterprise Value 3,159.77B
+299,AMT,Trailing P/E,48.27
+300,AMT,Forward P/E 1,46.30
+301,AMT,PEG Ratio (5 yr expected) 1,2.55
+302,AMT,Price/Sales (ttm),13.24
+303,AMT,Price/Book (mrq),22.34
+304,AMT,Enterprise Value/Revenue 3,17.68
+305,AMT,Enterprise Value/EBITDA 7,27.87
+306,AMZN,Market Cap (intraday) 5,1.82T
+307,AMZN,Enterprise Value 3,1.85T
+308,AMZN,Trailing P/E,70.03
+309,AMZN,Forward P/E 1,55.87
+310,AMZN,PEG Ratio (5 yr expected) 1,2.13
+311,AMZN,Price/Sales (ttm),4.02
+312,AMZN,Price/Book (mrq),15.06
+313,AMZN,Enterprise Value/Revenue 3,4.04
+314,AMZN,Enterprise Value/EBITDA 7,28.54
+315,ANET,Market Cap (intraday) 5,38.87B
+316,ANET,Enterprise Value 3,35.55B
+317,ANET,Trailing P/E,51.37
+318,ANET,Forward P/E 1,36.36
+319,ANET,PEG Ratio (5 yr expected) 1,1.82
+320,ANET,Price/Sales (ttm),14.54
+321,ANET,Price/Book (mrq),10.06
+322,ANET,Enterprise Value/Revenue 3,12.82
+323,ANET,Enterprise Value/EBITDA 7,37.69
+324,ANSS,Market Cap (intraday) 5,34.03B
+325,ANSS,Enterprise Value 3,33.81B
+326,ANSS,Trailing P/E,73.18
+327,ANSS,Forward P/E 1,48.54
+328,ANSS,PEG Ratio (5 yr expected) 1,4.13
+329,ANSS,Price/Sales (ttm),18.30
+330,ANSS,Price/Book (mrq),7.84
+331,ANSS,Enterprise Value/Revenue 3,18.03
+332,ANSS,Enterprise Value/EBITDA 7,50.10
+333,ANTM,Market Cap (intraday) 5,102.83B
+334,ANTM,Enterprise Value 3,120.12B
+335,ANTM,Trailing P/E,18.98
+336,ANTM,Forward P/E 1,14.79
+337,ANTM,PEG Ratio (5 yr expected) 1,1.29
+338,ANTM,Price/Sales (ttm),0.80
+339,ANTM,Price/Book (mrq),2.88
+340,ANTM,Enterprise Value/Revenue 3,0.90
+341,ANTM,Enterprise Value/EBITDA 7,
+342,AON,Market Cap (intraday) 5,65.82B
+343,AON,Enterprise Value 3,74.38B
+344,AON,Trailing P/E,74.87
+345,AON,Forward P/E 1,23.20
+346,AON,PEG Ratio (5 yr expected) 1,2.02
+347,AON,Price/Sales (ttm),5.65
+348,AON,Price/Book (mrq),29.80
+349,AON,Enterprise Value/Revenue 3,6.16
+350,AON,Enterprise Value/EBITDA 7,34.23
+351,AOS,Market Cap (intraday) 5,13.11B
+352,AOS,Enterprise Value 3,12.57B
+353,AOS,Trailing P/E,28.51
+354,AOS,Forward P/E 1,24.04
+355,AOS,PEG Ratio (5 yr expected) 1,2.40
+356,AOS,Price/Sales (ttm),3.95
+357,AOS,Price/Book (mrq),6.91
+358,AOS,Enterprise Value/Revenue 3,3.72
+359,AOS,Enterprise Value/EBITDA 7,18.56
+360,APA,Market Cap (intraday) 5,10.39B
+361,APA,Enterprise Value 3,17.51B
+362,APA,Trailing P/E,18.34
+363,APA,Forward P/E 1,4.96
+364,APA,PEG Ratio (5 yr expected) 1,
+365,APA,Price/Sales (ttm),1.57
+366,APA,Price/Book (mrq),
+367,APA,Enterprise Value/Revenue 3,2.54
+368,APA,Enterprise Value/EBITDA 7,5.56
+369,APD,Market Cap (intraday) 5,65.96B
+370,APD,Enterprise Value 3,68.38B
+371,APD,Trailing P/E,32.66
+372,APD,Forward P/E 1,28.90
+373,APD,PEG Ratio (5 yr expected) 1,1.54
+374,APD,Price/Sales (ttm),6.42
+375,APD,Price/Book (mrq),4.87
+376,APD,Enterprise Value/Revenue 3,6.62
+377,APD,Enterprise Value/EBITDA 7,17.22
+378,APH,Market Cap (intraday) 5,50.71B
+379,APH,Enterprise Value 3,54.66B
+380,APH,Trailing P/E,35.86
+381,APH,Forward P/E 1,30.86
+382,APH,PEG Ratio (5 yr expected) 1,2.11
+383,APH,Price/Sales (ttm),5.15
+384,APH,Price/Book (mrq),8.53
+385,APH,Enterprise Value/Revenue 3,5.32
+386,APH,Enterprise Value/EBITDA 7,23.11
+387,APTV,Market Cap (intraday) 5,45.87B
+388,APTV,Enterprise Value 3,47.53B
+389,APTV,Trailing P/E,58.07
+390,APTV,Forward P/E 1,36.63
+391,APTV,PEG Ratio (5 yr expected) 1,1.58
+392,APTV,Price/Sales (ttm),2.96
+393,APTV,Price/Book (mrq),5.53
+394,APTV,Enterprise Value/Revenue 3,3.03
+395,APTV,Enterprise Value/EBITDA 7,21.86
+396,ARE,Market Cap (intraday) 5,31.68B
+397,ARE,Enterprise Value 3,40.99B
+398,ARE,Trailing P/E,30.15
+399,ARE,Forward P/E 1,
+400,ARE,PEG Ratio (5 yr expected) 1,
+401,ARE,Price/Sales (ttm),14.54
+402,ARE,Price/Book (mrq),2.15
+403,ARE,Enterprise Value/Revenue 3,20.49
+404,ARE,Enterprise Value/EBITDA 7,21.39
+405,ATO,Market Cap (intraday) 5,12.58B
+406,ATO,Enterprise Value 3,20.03B
+407,ATO,Trailing P/E,18.55
+408,ATO,Forward P/E 1,17.45
+409,ATO,PEG Ratio (5 yr expected) 1,2.31
+410,ATO,Price/Sales (ttm),3.62
+411,ATO,Price/Book (mrq),1.59
+412,ATO,Enterprise Value/Revenue 3,5.88
+413,ATO,Enterprise Value/EBITDA 7,14.50
+414,ATVI,Market Cap (intraday) 5,48.11B
+415,ATVI,Enterprise Value 3,42.00B
+416,ATVI,Trailing P/E,18.33
+417,ATVI,Forward P/E 1,15.62
+418,ATVI,PEG Ratio (5 yr expected) 1,1.08
+419,ATVI,Price/Sales (ttm),5.34
+420,ATVI,Price/Book (mrq),2.84
+421,ATVI,Enterprise Value/Revenue 3,4.64
+422,ATVI,Enterprise Value/EBITDA 7,11.37
+423,AVB,Market Cap (intraday) 5,34.50B
+424,AVB,Enterprise Value 3,42.13B
+425,AVB,Trailing P/E,34.19
+426,AVB,Forward P/E 1,65.36
+427,AVB,PEG Ratio (5 yr expected) 1,5.87
+428,AVB,Price/Sales (ttm),15.32
+429,AVB,Price/Book (mrq),3.20
+430,AVB,Enterprise Value/Revenue 3,18.73
+431,AVB,Enterprise Value/EBITDA 7,21.44
+432,AVGO,Market Cap (intraday) 5,228.50B
+433,AVGO,Enterprise Value 3,257.88B
+434,AVGO,Trailing P/E,41.12
+435,AVGO,Forward P/E 1,18.18
+436,AVGO,PEG Ratio (5 yr expected) 1,1.27
+437,AVGO,Price/Sales (ttm),8.96
+438,AVGO,Price/Book (mrq),9.39
+439,AVGO,Enterprise Value/Revenue 3,9.73
+440,AVGO,Enterprise Value/EBITDA 7,18.59
+441,AVY,Market Cap (intraday) 5,18.34B
+442,AVY,Enterprise Value 3,21.33B
+443,AVY,Trailing P/E,24.84
+444,AVY,Forward P/E 1,23.31
+445,AVY,PEG Ratio (5 yr expected) 1,3.06
+446,AVY,Price/Sales (ttm),2.26
+447,AVY,Price/Book (mrq),10.19
+448,AVY,Enterprise Value/Revenue 3,2.60
+449,AVY,Enterprise Value/EBITDA 7,16.45
+450,AWK,Market Cap (intraday) 5,31.48B
+451,AWK,Enterprise Value 3,42.57B
+452,AWK,Trailing P/E,41.29
+453,AWK,Forward P/E 1,37.88
+454,AWK,PEG Ratio (5 yr expected) 1,4.34
+455,AWK,Price/Sales (ttm),8.12
+456,AWK,Price/Book (mrq),4.58
+457,AWK,Enterprise Value/Revenue 3,10.91
+458,AWK,Enterprise Value/EBITDA 7,22.79
+459,AXP,Market Cap (intraday) 5,132.92B
+460,AXP,Enterprise Value 3,
+461,AXP,Trailing P/E,17.91
+462,AXP,Forward P/E 1,17.79
+463,AXP,PEG Ratio (5 yr expected) 1,0.68
+464,AXP,Price/Sales (ttm),3.41
+465,AXP,Price/Book (mrq),5.44
+466,AXP,Enterprise Value/Revenue 3,
+467,AXP,Enterprise Value/EBITDA 7,
+468,AZO,Market Cap (intraday) 5,39.42B
+469,AZO,Enterprise Value 3,46.48B
+470,AZO,Trailing P/E,19.75
+471,AZO,Forward P/E 1,19.27
+472,AZO,PEG Ratio (5 yr expected) 1,1.54
+473,AZO,Price/Sales (ttm),2.93
+474,AZO,Price/Book (mrq),
+475,AZO,Enterprise Value/Revenue 3,3.18
+476,AZO,Enterprise Value/EBITDA 7,15.79
+477,BA,Market Cap (intraday) 5,122.91B
+478,BA,Enterprise Value 3,165.33B
+479,BA,Trailing P/E,
+480,BA,Forward P/E 1,34.72
+481,BA,PEG Ratio (5 yr expected) 1,6.53
+482,BA,Price/Sales (ttm),1.95
+483,BA,Price/Book (mrq),
+484,BA,Enterprise Value/Revenue 3,2.63
+485,BA,Enterprise Value/EBITDA 7,-40.81
+486,BAC,Market Cap (intraday) 5,389.81B
+487,BAC,Enterprise Value 3,
+488,BAC,Trailing P/E,14.26
+489,BAC,Forward P/E 1,15.11
+490,BAC,PEG Ratio (5 yr expected) 1,1.05
+491,BAC,Price/Sales (ttm),4.77
+492,BAC,Price/Book (mrq),1.57
+493,BAC,Enterprise Value/Revenue 3,
+494,BAC,Enterprise Value/EBITDA 7,
+495,BAX,Market Cap (intraday) 5,38.86B
+496,BAX,Enterprise Value 3,42.05B
+497,BAX,Trailing P/E,32.61
+498,BAX,Forward P/E 1,19.53
+499,BAX,PEG Ratio (5 yr expected) 1,1.47
+500,BAX,Price/Sales (ttm),3.19
+501,BAX,Price/Book (mrq),4.43
+502,BAX,Enterprise Value/Revenue 3,3.38
+503,BAX,Enterprise Value/EBITDA 7,17.30
+504,BBWI,Market Cap (intraday) 5,19.97B
+505,BBWI,Enterprise Value 3,26.87B
+506,BBWI,Trailing P/E,15.74
+507,BBWI,Forward P/E 1,16.42
+508,BBWI,PEG Ratio (5 yr expected) 1,1.40
+509,BBWI,Price/Sales (ttm),2.19
+510,BBWI,Price/Book (mrq),
+511,BBWI,Enterprise Value/Revenue 3,2.78
+512,BBWI,Enterprise Value/EBITDA 7,12.19
+513,BBY,Market Cap (intraday) 5,28.70B
+514,BBY,Enterprise Value 3,28.46B
+515,BBY,Trailing P/E,11.91
+516,BBY,Forward P/E 1,13.00
+517,BBY,PEG Ratio (5 yr expected) 1,1.85
+518,BBY,Price/Sales (ttm),0.58
+519,BBY,Price/Book (mrq),6.62
+520,BBY,Enterprise Value/Revenue 3,0.54
+521,BBY,Enterprise Value/EBITDA 7,6.86
+522,BDX,Market Cap (intraday) 5,70.21B
+523,BDX,Enterprise Value 3,85.52B
+524,BDX,Trailing P/E,35.69
+525,BDX,Forward P/E 1,19.42
+526,BDX,PEG Ratio (5 yr expected) 1,1.78
+527,BDX,Price/Sales (ttm),3.53
+528,BDX,Price/Book (mrq),2.97
+529,BDX,Enterprise Value/Revenue 3,4.22
+530,BDX,Enterprise Value/EBITDA 7,17.16
+531,BEN,Market Cap (intraday) 5,17.28B
+532,BEN,Enterprise Value 3,20.22B
+533,BEN,Trailing P/E,9.65
+534,BEN,Forward P/E 1,9.53
+535,BEN,PEG Ratio (5 yr expected) 1,0.55
+536,BEN,Price/Sales (ttm),2.01
+537,BEN,Price/Book (mrq),1.54
+538,BEN,Enterprise Value/Revenue 3,2.40
+539,BEN,Enterprise Value/EBITDA 7,7.12
+540,BF-B,Market Cap (intraday) 5,34.85B
+541,BF-B,Enterprise Value 3,36.18B
+542,BF-B,Trailing P/E,46.35
+543,BF-B,Forward P/E 1,44.64
+544,BF-B,PEG Ratio (5 yr expected) 1,4.79
+545,BF-B,Price/Sales (ttm),9.93
+546,BF-B,Price/Book (mrq),13.32
+547,BF-B,Enterprise Value/Revenue 3,10.01
+548,BF-B,Enterprise Value/EBITDA 7,31.65
+549,BIIB,Market Cap (intraday) 5,37.33B
+550,BIIB,Enterprise Value 3,42.00B
+551,BIIB,Trailing P/E,24.32
+552,BIIB,Forward P/E 1,13.33
+553,BIIB,PEG Ratio (5 yr expected) 1,6.24
+554,BIIB,Price/Sales (ttm),3.46
+555,BIIB,Price/Book (mrq),3.58
+556,BIIB,Enterprise Value/Revenue 3,3.78
+557,BIIB,Enterprise Value/EBITDA 7,14.00
+558,BIO,Market Cap (intraday) 5,22.21B
+559,BIO,Enterprise Value 3,21.10B
+560,BIO,Trailing P/E,3.34
+561,BIO,Forward P/E 1,48.31
+562,BIO,PEG Ratio (5 yr expected) 1,3.48
+563,BIO,Price/Sales (ttm),7.47
+564,BIO,Price/Book (mrq),1.44
+565,BIO,Enterprise Value/Revenue 3,7.08
+566,BIO,Enterprise Value/EBITDA 7,2.43
+567,BK,Market Cap (intraday) 5,48.73B
+568,BK,Enterprise Value 3,
+569,BK,Trailing P/E,15.02
+570,BK,Forward P/E 1,13.11
+571,BK,PEG Ratio (5 yr expected) 1,1.38
+572,BK,Price/Sales (ttm),3.33
+573,BK,Price/Book (mrq),1.25
+574,BK,Enterprise Value/Revenue 3,
+575,BK,Enterprise Value/EBITDA 7,
+576,BKNG,Market Cap (intraday) 5,96.13B
+577,BKNG,Enterprise Value 3,95.30B
+578,BKNG,Trailing P/E,253.92
+579,BKNG,Forward P/E 1,24.63
+580,BKNG,PEG Ratio (5 yr expected) 1,0.23
+581,BKNG,Price/Sales (ttm),10.50
+582,BKNG,Price/Book (mrq),17.34
+583,BKNG,Enterprise Value/Revenue 3,10.34
+584,BKNG,Enterprise Value/EBITDA 7,50.96
+585,BKR,Market Cap (intraday) 5,20.06B
+586,BKR,Enterprise Value 3,22.90B
+587,BKR,Trailing P/E,36.03
+588,BKR,Forward P/E 1,18.32
+589,BKR,PEG Ratio (5 yr expected) 1,0.31
+590,BKR,Price/Sales (ttm),0.87
+591,BKR,Price/Book (mrq),1.42
+592,BKR,Enterprise Value/Revenue 3,1.12
+593,BKR,Enterprise Value/EBITDA 7,8.57
+594,BLK,Market Cap (intraday) 5,141.39B
+595,BLK,Enterprise Value 3,142.45B
+596,BLK,Trailing P/E,24.75
+597,BLK,Forward P/E 1,21.83
+598,BLK,PEG Ratio (5 yr expected) 1,2.73
+599,BLK,Price/Sales (ttm),7.67
+600,BLK,Price/Book (mrq),3.84
+601,BLK,Enterprise Value/Revenue 3,7.60
+602,BLK,Enterprise Value/EBITDA 7,16.10
+603,BLL,Market Cap (intraday) 5,30.32B
+604,BLL,Enterprise Value 3,37.39B
+605,BLL,Trailing P/E,38.53
+606,BLL,Forward P/E 1,23.26
+607,BLL,PEG Ratio (5 yr expected) 1,4.00
+608,BLL,Price/Sales (ttm),2.36
+609,BLL,Price/Book (mrq),8.19
+610,BLL,Enterprise Value/Revenue 3,2.82
+611,BLL,Enterprise Value/EBITDA 7,19.79
+612,BMY,Market Cap (intraday) 5,127.52B
+613,BMY,Enterprise Value 3,157.54B
+614,BMY,Trailing P/E,93.81
+615,BMY,Forward P/E 1,7.18
+616,BMY,PEG Ratio (5 yr expected) 1,11.05
+617,BMY,Price/Sales (ttm),2.82
+618,BMY,Price/Book (mrq),3.43
+619,BMY,Enterprise Value/Revenue 3,3.46
+620,BMY,Enterprise Value/EBITDA 7,19.81
+621,BR,Market Cap (intraday) 5,20.18B
+622,BR,Enterprise Value 3,24.33B
+623,BR,Trailing P/E,37.15
+624,BR,Forward P/E 1,27.10
+625,BR,PEG Ratio (5 yr expected) 1,2.28
+626,BR,Price/Sales (ttm),3.95
+627,BR,Price/Book (mrq),11.51
+628,BR,Enterprise Value/Revenue 3,4.71
+629,BR,Enterprise Value/EBITDA 7,23.65
+630,BRK-B,Market Cap (intraday) 5,645.76B
+631,BRK-B,Enterprise Value 3,696.57B
+632,BRK-B,Trailing P/E,7.79
+633,BRK-B,Forward P/E 1,21.01
+634,BRK-B,PEG Ratio (5 yr expected) 1,9.13
+635,BRK-B,Price/Sales (ttm),1.91
+636,BRK-B,Price/Book (mrq),1.36
+637,BRK-B,Enterprise Value/Revenue 3,2.01
+638,BRK-B,Enterprise Value/EBITDA 7,
+639,BXP,Market Cap (intraday) 5,18.42B
+640,BXP,Enterprise Value 3,31.24B
+641,BXP,Trailing P/E,57.80
+642,BXP,Forward P/E 1,41.15
+643,BXP,PEG Ratio (5 yr expected) 1,21.02
+644,BXP,Price/Sales (ttm),6.53
+645,BXP,Price/Book (mrq),3.22
+646,BXP,Enterprise Value/Revenue 3,11.07
+647,BXP,Enterprise Value/EBITDA 7,19.81
+648,C,Market Cap (intraday) 5,133.50B
+649,C,Enterprise Value 3,
+650,C,Trailing P/E,6.37
+651,C,Forward P/E 1,8.38
+652,C,PEG Ratio (5 yr expected) 1,0.74
+653,C,Price/Sales (ttm),1.93
+654,C,Price/Book (mrq),0.73
+655,C,Enterprise Value/Revenue 3,
+656,C,Enterprise Value/EBITDA 7,
+657,CAT,Market Cap (intraday) 5,112.01B
+658,CAT,Enterprise Value 3,139.35B
+659,CAT,Trailing P/E,22.15
+660,CAT,Forward P/E 1,16.69
+661,CAT,PEG Ratio (5 yr expected) 1,1.10
+662,CAT,Price/Sales (ttm),2.35
+663,CAT,Price/Book (mrq),6.72
+664,CAT,Enterprise Value/Revenue 3,2.88
+665,CAT,Enterprise Value/EBITDA 7,14.71
+666,CBRE,Market Cap (intraday) 5,34.89B
+667,CBRE,Enterprise Value 3,36.61B
+668,CBRE,Trailing P/E,24.30
+669,CBRE,Forward P/E 1,21.74
+670,CBRE,PEG Ratio (5 yr expected) 1,1.04
+671,CBRE,Price/Sales (ttm),1.36
+672,CBRE,Price/Book (mrq),4.38
+673,CBRE,Enterprise Value/Revenue 3,1.40
+674,CBRE,Enterprise Value/EBITDA 7,14.87
+675,CCI,Market Cap (intraday) 5,79.38B
+676,CCI,Enterprise Value 3,105.74B
+677,CCI,Trailing P/E,60.62
+678,CCI,Forward P/E 1,54.35
+679,CCI,PEG Ratio (5 yr expected) 1,3.52
+680,CCI,Price/Sales (ttm),12.90
+681,CCI,Price/Book (mrq),9.32
+682,CCI,Enterprise Value/Revenue 3,17.11
+683,CCI,Enterprise Value/EBITDA 7,29.35
+684,CDNS,Market Cap (intraday) 5,49.43B
+685,CDNS,Enterprise Value 3,48.76B
+686,CDNS,Trailing P/E,71.92
+687,CDNS,Forward P/E 1,50.00
+688,CDNS,PEG Ratio (5 yr expected) 1,4.52
+689,CDNS,Price/Sales (ttm),16.75
+690,CDNS,Price/Book (mrq),18.79
+691,CDNS,Enterprise Value/Revenue 3,16.39
+692,CDNS,Enterprise Value/EBITDA 7,52.82
+693,CDW,Market Cap (intraday) 5,26.58B
+694,CDW,Enterprise Value 3,30.84B
+695,CDW,Trailing P/E,27.51
+696,CDW,Forward P/E 1,22.88
+697,CDW,PEG Ratio (5 yr expected) 1,
+698,CDW,Price/Sales (ttm),1.38
+699,CDW,Price/Book (mrq),31.76
+700,CDW,Enterprise Value/Revenue 3,1.52
+701,CDW,Enterprise Value/EBITDA 7,18.51
+702,CE,Market Cap (intraday) 5,18.23B
+703,CE,Enterprise Value 3,20.93B
+704,CE,Trailing P/E,6.82
+705,CE,Forward P/E 1,10.57
+706,CE,PEG Ratio (5 yr expected) 1,0.62
+707,CE,Price/Sales (ttm),2.42
+708,CE,Price/Book (mrq),4.65
+709,CE,Enterprise Value/Revenue 3,2.66
+710,CE,Enterprise Value/EBITDA 7,5.60
+711,CERN,Market Cap (intraday) 5,21.62B
+712,CERN,Enterprise Value 3,22.68B
+713,CERN,Trailing P/E,43.23
+714,CERN,Forward P/E 1,19.92
+715,CERN,PEG Ratio (5 yr expected) 1,2.14
+716,CERN,Price/Sales (ttm),3.93
+717,CERN,Price/Book (mrq),5.63
+718,CERN,Enterprise Value/Revenue 3,3.97
+719,CERN,Enterprise Value/EBITDA 7,13.28
+720,CF,Market Cap (intraday) 5,13.97B
+721,CF,Enterprise Value 3,16.95B
+722,CF,Trailing P/E,47.20
+723,CF,Forward P/E 1,10.68
+724,CF,PEG Ratio (5 yr expected) 1,0.47
+725,CF,Price/Sales (ttm),2.76
+726,CF,Price/Book (mrq),4.76
+727,CF,Enterprise Value/Revenue 3,3.32
+728,CF,Enterprise Value/EBITDA 7,10.46
+729,CFG,Market Cap (intraday) 5,21.67B
+730,CFG,Enterprise Value 3,
+731,CFG,Trailing P/E,10.21
+732,CFG,Forward P/E 1,11.95
+733,CFG,PEG Ratio (5 yr expected) 1,
+734,CFG,Price/Sales (ttm),3.28
+735,CFG,Price/Book (mrq),1.01
+736,CFG,Enterprise Value/Revenue 3,
+737,CFG,Enterprise Value/EBITDA 7,
+738,CHD,Market Cap (intraday) 5,23.34B
+739,CHD,Enterprise Value 3,24.95B
+740,CHD,Trailing P/E,28.46
+741,CHD,Forward P/E 1,28.82
+742,CHD,PEG Ratio (5 yr expected) 1,4.26
+743,CHD,Price/Sales (ttm),4.57
+744,CHD,Price/Book (mrq),6.64
+745,CHD,Enterprise Value/Revenue 3,4.88
+746,CHD,Enterprise Value/EBITDA 7,18.96
+747,CHRW,Market Cap (intraday) 5,12.71B
+748,CHRW,Enterprise Value 3,14.54B
+749,CHRW,Trailing P/E,17.30
+750,CHRW,Forward P/E 1,17.24
+751,CHRW,PEG Ratio (5 yr expected) 1,1.57
+752,CHRW,Price/Sales (ttm),0.62
+753,CHRW,Price/Book (mrq),6.51
+754,CHRW,Enterprise Value/Revenue 3,0.69
+755,CHRW,Enterprise Value/EBITDA 7,13.29
+756,CHTR,Market Cap (intraday) 5,120.61B
+757,CHTR,Enterprise Value 3,208.78B
+758,CHTR,Trailing P/E,30.81
+759,CHTR,Forward P/E 1,20.41
+760,CHTR,PEG Ratio (5 yr expected) 1,0.54
+761,CHTR,Price/Sales (ttm),2.62
+762,CHTR,Price/Book (mrq),7.08
+763,CHTR,Enterprise Value/Revenue 3,4.09
+764,CHTR,Enterprise Value/EBITDA 7,10.75
+765,CI,Market Cap (intraday) 5,69.79B
+766,CI,Enterprise Value 3,100.62B
+767,CI,Trailing P/E,8.92
+768,CI,Forward P/E 1,9.39
+769,CI,PEG Ratio (5 yr expected) 1,0.84
+770,CI,Price/Sales (ttm),0.43
+771,CI,Price/Book (mrq),1.47
+772,CI,Enterprise Value/Revenue 3,0.59
+773,CI,Enterprise Value/EBITDA 7,
+774,CINF,Market Cap (intraday) 5,19.31B
+775,CINF,Enterprise Value 3,19.13B
+776,CINF,Trailing P/E,7.72
+777,CINF,Forward P/E 1,23.26
+778,CINF,PEG Ratio (5 yr expected) 1,
+779,CINF,Price/Sales (ttm),2.16
+780,CINF,Price/Book (mrq),1.63
+781,CINF,Enterprise Value/Revenue 3,2.12
+782,CINF,Enterprise Value/EBITDA 7,
+783,CL,Market Cap (intraday) 5,65.54B
+784,CL,Enterprise Value 3,72.28B
+785,CL,Trailing P/E,24.76
+786,CL,Forward P/E 1,23.09
+787,CL,PEG Ratio (5 yr expected) 1,3.90
+788,CL,Price/Sales (ttm),3.82
+789,CL,Price/Book (mrq),110.90
+790,CL,Enterprise Value/Revenue 3,4.17
+791,CL,Enterprise Value/EBITDA 7,16.30
+792,CLX,Market Cap (intraday) 5,20.65B
+793,CLX,Enterprise Value 3,23.67B
+794,CLX,Trailing P/E,48.02
+795,CLX,Forward P/E 1,31.55
+796,CLX,PEG Ratio (5 yr expected) 1,6.33
+797,CLX,Price/Sales (ttm),2.93
+798,CLX,Price/Book (mrq),56.11
+799,CLX,Enterprise Value/Revenue 3,3.27
+800,CLX,Enterprise Value/EBITDA 7,27.11
+801,CMA,Market Cap (intraday) 5,11.18B
+802,CMA,Enterprise Value 3,
+803,CMA,Trailing P/E,10.60
+804,CMA,Forward P/E 1,15.08
+805,CMA,PEG Ratio (5 yr expected) 1,0.77
+806,CMA,Price/Sales (ttm),4.40
+807,CMA,Price/Book (mrq),1.51
+808,CMA,Enterprise Value/Revenue 3,
+809,CMA,Enterprise Value/EBITDA 7,
+810,CMCSA,Market Cap (intraday) 5,237.04B
+811,CMCSA,Enterprise Value 3,322.45B
+812,CMCSA,Trailing P/E,16.68
+813,CMCSA,Forward P/E 1,13.93
+814,CMCSA,PEG Ratio (5 yr expected) 1,1.47
+815,CMCSA,Price/Sales (ttm),2.13
+816,CMCSA,Price/Book (mrq),2.47
+817,CMCSA,Enterprise Value/Revenue 3,2.83
+818,CMCSA,Enterprise Value/EBITDA 7,8.64
+819,CME,Market Cap (intraday) 5,81.92B
+820,CME,Enterprise Value 3,83.80B
+821,CME,Trailing P/E,33.62
+822,CME,Forward P/E 1,31.65
+823,CME,PEG Ratio (5 yr expected) 1,5.05
+824,CME,Price/Sales (ttm),17.62
+825,CME,Price/Book (mrq),3.00
+826,CME,Enterprise Value/Revenue 3,18.06
+827,CME,Enterprise Value/EBITDA 7,22.73
+828,CMG,Market Cap (intraday) 5,48.05B
+829,CMG,Enterprise Value 3,50.52B
+830,CMG,Trailing P/E,68.51
+831,CMG,Forward P/E 1,50.76
+832,CMG,PEG Ratio (5 yr expected) 1,1.41
+833,CMG,Price/Sales (ttm),6.77
+834,CMG,Price/Book (mrq),20.79
+835,CMG,Enterprise Value/Revenue 3,7.02
+836,CMG,Enterprise Value/EBITDA 7,41.95
+837,CMI,Market Cap (intraday) 5,32.31B
+838,CMI,Enterprise Value 3,33.68B
+839,CMI,Trailing P/E,14.84
+840,CMI,Forward P/E 1,12.33
+841,CMI,PEG Ratio (5 yr expected) 1,1.18
+842,CMI,Price/Sales (ttm),1.39
+843,CMI,Price/Book (mrq),4.00
+844,CMI,Enterprise Value/Revenue 3,1.40
+845,CMI,Enterprise Value/EBITDA 7,9.21
+846,CMS,Market Cap (intraday) 5,17.68B
+847,CMS,Enterprise Value 3,30.47B
+848,CMS,Trailing P/E,21.42
+849,CMS,Forward P/E 1,21.28
+850,CMS,PEG Ratio (5 yr expected) 1,3.99
+851,CMS,Price/Sales (ttm),2.42
+852,CMS,Price/Book (mrq),3.01
+853,CMS,Enterprise Value/Revenue 3,4.18
+854,CMS,Enterprise Value/EBITDA 7,11.63
+855,CNC,Market Cap (intraday) 5,43.12B
+856,CNC,Enterprise Value 3,50.88B
+857,CNC,Trailing P/E,60.08
+858,CNC,Forward P/E 1,13.59
+859,CNC,PEG Ratio (5 yr expected) 1,1.06
+860,CNC,Price/Sales (ttm),0.36
+861,CNC,Price/Book (mrq),1.63
+862,CNC,Enterprise Value/Revenue 3,0.42
+863,CNC,Enterprise Value/EBITDA 7,16.07
+864,CNP,Market Cap (intraday) 5,16.83B
+865,CNP,Enterprise Value 3,33.07B
+866,CNP,Trailing P/E,12.80
+867,CNP,Forward P/E 1,18.28
+868,CNP,PEG Ratio (5 yr expected) 1,5.04
+869,CNP,Price/Sales (ttm),1.95
+870,CNP,Price/Book (mrq),2.08
+871,CNP,Enterprise Value/Revenue 3,4.09
+872,CNP,Enterprise Value/EBITDA 7,27.06
+873,COF,Market Cap (intraday) 5,66.52B
+874,COF,Enterprise Value 3,
+875,COF,Trailing P/E,5.82
+876,COF,Forward P/E 1,8.20
+877,COF,PEG Ratio (5 yr expected) 1,0.46
+878,COF,Price/Sales (ttm),2.38
+879,COF,Price/Book (mrq),1.05
+880,COF,Enterprise Value/Revenue 3,
+881,COF,Enterprise Value/EBITDA 7,
+882,COO,Market Cap (intraday) 5,19.64B
+883,COO,Enterprise Value 3,21.42B
+884,COO,Trailing P/E,6.79
+885,COO,Forward P/E 1,27.93
+886,COO,PEG Ratio (5 yr expected) 1,2.41
+887,COO,Price/Sales (ttm),6.96
+888,COO,Price/Book (mrq),2.90
+889,COO,Enterprise Value/Revenue 3,7.53
+890,COO,Enterprise Value/EBITDA 7,26.86
+891,COP,Market Cap (intraday) 5,97.31B
+892,COP,Enterprise Value 3,105.05B
+893,COP,Trailing P/E,21.89
+894,COP,Forward P/E 1,8.60
+895,COP,PEG Ratio (5 yr expected) 1,8.60
+896,COP,Price/Sales (ttm),2.58
+897,COP,Price/Book (mrq),2.21
+898,COP,Enterprise Value/Revenue 3,2.90
+899,COP,Enterprise Value/EBITDA 7,6.88
+900,COST,Market Cap (intraday) 5,240.91B
+901,COST,Enterprise Value 3,238.87B
+902,COST,Trailing P/E,48.38
+903,COST,Forward P/E 1,45.05
+904,COST,PEG Ratio (5 yr expected) 1,5.19
+905,COST,Price/Sales (ttm),1.24
+906,COST,Price/Book (mrq),13.72
+907,COST,Enterprise Value/Revenue 3,1.22
+908,COST,Enterprise Value/EBITDA 7,34.87
+909,CPB,Market Cap (intraday) 5,12.54B
+910,CPB,Enterprise Value 3,17.76B
+911,CPB,Trailing P/E,12.58
+912,CPB,Forward P/E 1,15.04
+913,CPB,PEG Ratio (5 yr expected) 1,5.06
+914,CPB,Price/Sales (ttm),1.49
+915,CPB,Price/Book (mrq),3.98
+916,CPB,Enterprise Value/Revenue 3,2.10
+917,CPB,Enterprise Value/EBITDA 7,9.53
+918,CPRT,Market Cap (intraday) 5,35.21B
+919,CPRT,Enterprise Value 3,34.45B
+920,CPRT,Trailing P/E,35.77
+921,CPRT,Forward P/E 1,36.63
+922,CPRT,PEG Ratio (5 yr expected) 1,
+923,CPRT,Price/Sales (ttm),12.28
+924,CPRT,Price/Book (mrq),9.28
+925,CPRT,Enterprise Value/Revenue 3,11.84
+926,CPRT,Enterprise Value/EBITDA 7,25.57
+927,CRL,Market Cap (intraday) 5,18.67B
+928,CRL,Enterprise Value 3,21.63B
+929,CRL,Trailing P/E,47.80
+930,CRL,Forward P/E 1,31.55
+931,CRL,PEG Ratio (5 yr expected) 1,1.77
+932,CRL,Price/Sales (ttm),5.55
+933,CRL,Price/Book (mrq),7.69
+934,CRL,Enterprise Value/Revenue 3,6.31
+935,CRL,Enterprise Value/EBITDA 7,25.62
+936,CRM,Market Cap (intraday) 5,285.30B
+937,CRM,Enterprise Value 3,291.17B
+938,CRM,Trailing P/E,117.51
+939,CRM,Forward P/E 1,64.10
+940,CRM,PEG Ratio (5 yr expected) 1,4.22
+941,CRM,Price/Sales (ttm),11.67
+942,CRM,Price/Book (mrq),5.14
+943,CRM,Enterprise Value/Revenue 3,12.37
+944,CRM,Enterprise Value/EBITDA 7,71.96
+945,CSCO,Market Cap (intraday) 5,233.23B
+946,CSCO,Enterprise Value 3,219.39B
+947,CSCO,Trailing P/E,20.56
+948,CSCO,Forward P/E 1,16.10
+949,CSCO,PEG Ratio (5 yr expected) 1,2.94
+950,CSCO,Price/Sales (ttm),4.61
+951,CSCO,Price/Book (mrq),5.46
+952,CSCO,Enterprise Value/Revenue 3,4.32
+953,CSCO,Enterprise Value/EBITDA 7,13.22
+954,CSX,Market Cap (intraday) 5,80.91B
+955,CSX,Enterprise Value 3,95.61B
+956,CSX,Trailing P/E,22.94
+957,CSX,Forward P/E 1,20.62
+958,CSX,PEG Ratio (5 yr expected) 1,1.70
+959,CSX,Price/Sales (ttm),6.96
+960,CSX,Price/Book (mrq),6.15
+961,CSX,Enterprise Value/Revenue 3,8.02
+962,CSX,Enterprise Value/EBITDA 7,13.90
+963,CTAS,Market Cap (intraday) 5,45.66B
+964,CTAS,Enterprise Value 3,48.36B
+965,CTAS,Trailing P/E,41.77
+966,CTAS,Forward P/E 1,41.32
+967,CTAS,PEG Ratio (5 yr expected) 1,4.55
+968,CTAS,Price/Sales (ttm),6.53
+969,CTAS,Price/Book (mrq),13.80
+970,CTAS,Enterprise Value/Revenue 3,6.66
+971,CTAS,Enterprise Value/EBITDA 7,26.57
+972,CTLT,Market Cap (intraday) 5,22.18B
+973,CTLT,Enterprise Value 3,24.84B
+974,CTLT,Trailing P/E,40.62
+975,CTLT,Forward P/E 1,35.21
+976,CTLT,PEG Ratio (5 yr expected) 1,2.93
+977,CTLT,Price/Sales (ttm),5.32
+978,CTLT,Price/Book (mrq),5.52
+979,CTLT,Enterprise Value/Revenue 3,5.95
+980,CTLT,Enterprise Value/EBITDA 7,21.38
+981,CTSH,Market Cap (intraday) 5,42.42B
+982,CTSH,Enterprise Value 3,41.68B
+983,CTSH,Trailing P/E,22.75
+984,CTSH,Forward P/E 1,17.95
+985,CTSH,PEG Ratio (5 yr expected) 1,1.21
+986,CTSH,Price/Sales (ttm),2.39
+987,CTSH,Price/Book (mrq),3.67
+988,CTSH,Enterprise Value/Revenue 3,2.33
+989,CTSH,Enterprise Value/EBITDA 7,13.25
+990,CTVA,Market Cap (intraday) 5,34.91B
+991,CTVA,Enterprise Value 3,34.51B
+992,CTVA,Trailing P/E,20.30
+993,CTVA,Forward P/E 1,18.73
+994,CTVA,PEG Ratio (5 yr expected) 1,1.07
+995,CTVA,Price/Sales (ttm),2.32
+996,CTVA,Price/Book (mrq),1.41
+997,CTVA,Enterprise Value/Revenue 3,2.24
+998,CTVA,Enterprise Value/EBITDA 7,10.46
+999,CTXS,Market Cap (intraday) 5,10.34B
+1000,CTXS,Enterprise Value 3,13.40B
+1001,CTXS,Trailing P/E,32.90
+1002,CTXS,Forward P/E 1,15.62
+1003,CTXS,PEG Ratio (5 yr expected) 1,3.69
+1004,CTXS,Price/Sales (ttm),3.29
+1005,CTXS,Price/Book (mrq),25.87
+1006,CTXS,Enterprise Value/Revenue 3,4.22
+1007,CTXS,Enterprise Value/EBITDA 7,20.49
+1008,CVS,Market Cap (intraday) 5,
+1009,CVS,Enterprise Value 3,
+1010,CVS,Trailing P/E,
+1011,CVS,Forward P/E 1,
+1012,CVS,PEG Ratio (5 yr expected) 1,
+1013,CVS,Price/Sales (ttm),
+1014,CVS,Price/Book (mrq),
+1015,CVS,Enterprise Value/Revenue 3,
+1016,CVS,Enterprise Value/EBITDA 7,
+1017,CVX,Market Cap (intraday) 5,225.91B
+1018,CVX,Enterprise Value 3,257.22B
+1019,CVX,Trailing P/E,22.62
+1020,CVX,Forward P/E 1,12.22
+1021,CVX,PEG Ratio (5 yr expected) 1,
+1022,CVX,Price/Sales (ttm),1.67
+1023,CVX,Price/Book (mrq),1.66
+1024,CVX,Enterprise Value/Revenue 3,1.91
+1025,CVX,Enterprise Value/EBITDA 7,7.96
+1026,CZR,Market Cap (intraday) 5,20.08B
+1027,CZR,Enterprise Value 3,45.94B
+1028,CZR,Trailing P/E,16.59
+1029,CZR,Forward P/E 1,37.59
+1030,CZR,PEG Ratio (5 yr expected) 1,
+1031,CZR,Price/Sales (ttm),2.35
+1032,CZR,Price/Book (mrq),4.11
+1033,CZR,Enterprise Value/Revenue 3,5.46
+1034,CZR,Enterprise Value/EBITDA 7,21.15
+1035,D,Market Cap (intraday) 5,60.66B
+1036,D,Enterprise Value 3,104.37B
+1037,D,Trailing P/E,23.63
+1038,D,Forward P/E 1,18.18
+1039,D,PEG Ratio (5 yr expected) 1,2.56
+1040,D,Price/Sales (ttm),4.45
+1041,D,Price/Book (mrq),2.47
+1042,D,Enterprise Value/Revenue 3,7.67
+1043,D,Enterprise Value/EBITDA 7,14.90
+1044,DAL,Market Cap (intraday) 5,25.30B
+1045,DAL,Enterprise Value 3,46.29B
+1046,DAL,Trailing P/E,4.86
+1047,DAL,Forward P/E 1,9.52
+1048,DAL,PEG Ratio (5 yr expected) 1,39.29
+1049,DAL,Price/Sales (ttm),1.04
+1050,DAL,Price/Book (mrq),9.71
+1051,DAL,Enterprise Value/Revenue 3,1.90
+1052,DAL,Enterprise Value/EBITDA 7,43.51
+1053,DD,Market Cap (intraday) 5,41.19B
+1054,DD,Enterprise Value 3,50.15B
+1055,DD,Trailing P/E,29.67
+1056,DD,Forward P/E 1,16.39
+1057,DD,PEG Ratio (5 yr expected) 1,1.07
+1058,DD,Price/Sales (ttm),2.14
+1059,DD,Price/Book (mrq),1.55
+1060,DD,Enterprise Value/Revenue 3,2.26
+1061,DD,Enterprise Value/EBITDA 7,11.56
+1062,DE,Market Cap (intraday) 5,114.06B
+1063,DE,Enterprise Value 3,153.81B
+1064,DE,Trailing P/E,21.33
+1065,DE,Forward P/E 1,17.15
+1066,DE,PEG Ratio (5 yr expected) 1,1.18
+1067,DE,Price/Sales (ttm),2.75
+1068,DE,Price/Book (mrq),7.25
+1069,DE,Enterprise Value/Revenue 3,3.49
+1070,DE,Enterprise Value/EBITDA 7,15.94
+1071,DFS,Market Cap (intraday) 5,34.98B
+1072,DFS,Enterprise Value 3,
+1073,DFS,Trailing P/E,7.12
+1074,DFS,Forward P/E 1,8.97
+1075,DFS,PEG Ratio (5 yr expected) 1,0.40
+1076,DFS,Price/Sales (ttm),3.06
+1077,DFS,Price/Book (mrq),2.87
+1078,DFS,Enterprise Value/Revenue 3,
+1079,DFS,Enterprise Value/EBITDA 7,
+1080,DG,Market Cap (intraday) 5,52.53B
+1081,DG,Enterprise Value 3,66.16B
+1082,DG,Trailing P/E,21.54
+1083,DG,Forward P/E 1,20.37
+1084,DG,PEG Ratio (5 yr expected) 1,2.33
+1085,DG,Price/Sales (ttm),1.62
+1086,DG,Price/Book (mrq),8.56
+1087,DG,Enterprise Value/Revenue 3,1.97
+1088,DG,Enterprise Value/EBITDA 7,16.49
+1089,DGX,Market Cap (intraday) 5,18.34B
+1090,DGX,Enterprise Value 3,22.01B
+1091,DGX,Trailing P/E,8.99
+1092,DGX,Forward P/E 1,17.64
+1093,DGX,PEG Ratio (5 yr expected) 1,37.54
+1094,DGX,Price/Sales (ttm),1.77
+1095,DGX,Price/Book (mrq),2.87
+1096,DGX,Enterprise Value/Revenue 3,1.99
+1097,DGX,Enterprise Value/EBITDA 7,6.46
+1098,DHI,Market Cap (intraday) 5,36.28B
+1099,DHI,Enterprise Value 3,38.52B
+1100,DHI,Trailing P/E,8.92
+1101,DHI,Forward P/E 1,7.68
+1102,DHI,PEG Ratio (5 yr expected) 1,2.60
+1103,DHI,Price/Sales (ttm),1.34
+1104,DHI,Price/Book (mrq),2.44
+1105,DHI,Enterprise Value/Revenue 3,1.39
+1106,DHI,Enterprise Value/EBITDA 7,7.14
+1107,DHR,Market Cap (intraday) 5,224.03B
+1108,DHR,Enterprise Value 3,248.35B
+1109,DHR,Trailing P/E,40.35
+1110,DHR,Forward P/E 1,31.35
+1111,DHR,PEG Ratio (5 yr expected) 1,2.28
+1112,DHR,Price/Sales (ttm),8.19
+1113,DHR,Price/Book (mrq),5.58
+1114,DHR,Enterprise Value/Revenue 3,8.85
+1115,DHR,Enterprise Value/EBITDA 7,26.43
+1116,DIS,Market Cap (intraday) 5,275.00B
+1117,DIS,Enterprise Value 3,313.45B
+1118,DIS,Trailing P/E,136.34
+1119,DIS,Forward P/E 1,32.89
+1120,DIS,PEG Ratio (5 yr expected) 1,0.98
+1121,DIS,Price/Sales (ttm),4.10
+1122,DIS,Price/Book (mrq),3.11
+1123,DIS,Enterprise Value/Revenue 3,4.65
+1124,DIS,Enterprise Value/EBITDA 7,34.53
+1125,DISCA,Market Cap (intraday) 5,12.84B
+1126,DISCA,Enterprise Value 3,24.51B
+1127,DISCA,Trailing P/E,13.69
+1128,DISCA,Forward P/E 1,8.02
+1129,DISCA,PEG Ratio (5 yr expected) 1,0.56
+1130,DISCA,Price/Sales (ttm),1.43
+1131,DISCA,Price/Book (mrq),1.12
+1132,DISCA,Enterprise Value/Revenue 3,2.06
+1133,DISCA,Enterprise Value/EBITDA 7,3.37
+1134,DISCK,Market Cap (intraday) 5,12.84B
+1135,DISCK,Enterprise Value 3,24.51B
+1136,DISCK,Trailing P/E,13.37
+1137,DISCK,Forward P/E 1,7.83
+1138,DISCK,PEG Ratio (5 yr expected) 1,0.55
+1139,DISCK,Price/Sales (ttm),1.39
+1140,DISCK,Price/Book (mrq),1.09
+1141,DISCK,Enterprise Value/Revenue 3,2.06
+1142,DISCK,Enterprise Value/EBITDA 7,3.37
+1143,DISH,Market Cap (intraday) 5,17.85B
+1144,DISH,Enterprise Value 3,29.62B
+1145,DISH,Trailing P/E,8.07
+1146,DISH,Forward P/E 1,10.83
+1147,DISH,PEG Ratio (5 yr expected) 1,1.35
+1148,DISH,Price/Sales (ttm),1.17
+1149,DISH,Price/Book (mrq),1.19
+1150,DISH,Enterprise Value/Revenue 3,1.65
+1151,DISH,Enterprise Value/EBITDA 7,6.97
+1152,DLR,Market Cap (intraday) 5,46.76B
+1153,DLR,Enterprise Value 3,63.00B
+1154,DLR,Trailing P/E,69.81
+1155,DLR,Forward P/E 1,96.15
+1156,DLR,PEG Ratio (5 yr expected) 1,1.87
+1157,DLR,Price/Sales (ttm),10.62
+1158,DLR,Price/Book (mrq),2.83
+1159,DLR,Enterprise Value/Revenue 3,14.39
+1160,DLR,Enterprise Value/EBITDA 7,24.65
+1161,DLTR,Market Cap (intraday) 5,32.98B
+1162,DLTR,Enterprise Value 3,41.94B
+1163,DLTR,Trailing P/E,23.12
+1164,DLTR,Forward P/E 1,22.57
+1165,DLTR,PEG Ratio (5 yr expected) 1,2.24
+1166,DLTR,Price/Sales (ttm),1.33
+1167,DLTR,Price/Book (mrq),4.70
+1168,DLTR,Enterprise Value/Revenue 3,1.61
+1169,DLTR,Enterprise Value/EBITDA 7,15.98
+1170,DOV,Market Cap (intraday) 5,25.38B
+1171,DOV,Enterprise Value 3,27.70B
+1172,DOV,Trailing P/E,27.16
+1173,DOV,Forward P/E 1,21.28
+1174,DOV,PEG Ratio (5 yr expected) 1,1.74
+1175,DOV,Price/Sales (ttm),3.33
+1176,DOV,Price/Book (mrq),6.52
+1177,DOV,Enterprise Value/Revenue 3,3.60
+1178,DOV,Enterprise Value/EBITDA 7,17.75
+1179,DOW,Market Cap (intraday) 5,
+1180,DOW,Enterprise Value 3,
+1181,DOW,Trailing P/E,
+1182,DOW,Forward P/E 1,
+1183,DOW,PEG Ratio (5 yr expected) 1,
+1184,DOW,Price/Sales (ttm),
+1185,DOW,Price/Book (mrq),
+1186,DOW,Enterprise Value/Revenue 3,
+1187,DOW,Enterprise Value/EBITDA 7,
+1188,DPZ,Market Cap (intraday) 5,
+1189,DPZ,Enterprise Value 3,
+1190,DPZ,Trailing P/E,
+1191,DPZ,Forward P/E 1,
+1192,DPZ,PEG Ratio (5 yr expected) 1,
+1193,DPZ,Price/Sales (ttm),
+1194,DPZ,Price/Book (mrq),
+1195,DPZ,Enterprise Value/Revenue 3,
+1196,DPZ,Enterprise Value/EBITDA 7,
+1197,DRE,Market Cap (intraday) 5,22.82B
+1198,DRE,Enterprise Value 3,26.16B
+1199,DRE,Trailing P/E,24.65
+1200,DRE,Forward P/E 1,75.19
+1201,DRE,PEG Ratio (5 yr expected) 1,14.26
+1202,DRE,Price/Sales (ttm),20.59
+1203,DRE,Price/Book (mrq),3.83
+1204,DRE,Enterprise Value/Revenue 3,23.62
+1205,DRE,Enterprise Value/EBITDA 7,18.79
+1206,DTE,Market Cap (intraday) 5,21.75B
+1207,DTE,Enterprise Value 3,39.39B
+1208,DTE,Trailing P/E,21.33
+1209,DTE,Forward P/E 1,18.83
+1210,DTE,PEG Ratio (5 yr expected) 1,2.95
+1211,DTE,Price/Sales (ttm),1.54
+1212,DTE,Price/Book (mrq),2.54
+1213,DTE,Enterprise Value/Revenue 3,2.78
+1214,DTE,Enterprise Value/EBITDA 7,11.96
+1215,DUK,Market Cap (intraday) 5,77.07B
+1216,DUK,Enterprise Value 3,144.48B
+1217,DUK,Trailing P/E,25.95
+1218,DUK,Forward P/E 1,18.35
+1219,DUK,PEG Ratio (5 yr expected) 1,3.79
+1220,DUK,Price/Sales (ttm),3.10
+1221,DUK,Price/Book (mrq),1.63
+1222,DUK,Enterprise Value/Revenue 3,5.86
+1223,DUK,Enterprise Value/EBITDA 7,13.60
+1224,EBAY,Market Cap (intraday) 5,44.85B
+1225,EBAY,Enterprise Value 3,39.60B
+1226,EBAY,Trailing P/E,25.05
+1227,EBAY,Forward P/E 1,15.95
+1228,EBAY,PEG Ratio (5 yr expected) 1,3.46
+1229,EBAY,Price/Sales (ttm),4.19
+1230,EBAY,Price/Book (mrq),4.10
+1231,EBAY,Enterprise Value/Revenue 3,3.40
+1232,EBAY,Enterprise Value/EBITDA 7,8.69
+1233,ED,Market Cap (intraday) 5,
+1234,ED,Enterprise Value 3,
+1235,ED,Trailing P/E,
+1236,ED,Forward P/E 1,
+1237,ED,PEG Ratio (5 yr expected) 1,
+1238,ED,Price/Sales (ttm),
+1239,ED,Price/Book (mrq),
+1240,ED,Enterprise Value/Revenue 3,
+1241,ED,Enterprise Value/EBITDA 7,
+1242,EIX,Market Cap (intraday) 5,24.89B
+1243,EIX,Enterprise Value 3,54.29B
+1244,EIX,Trailing P/E,32.28
+1245,EIX,Forward P/E 1,13.83
+1246,EIX,PEG Ratio (5 yr expected) 1,3.72
+1247,EIX,Price/Sales (ttm),1.69
+1248,EIX,Price/Book (mrq),1.83
+1249,EIX,Enterprise Value/Revenue 3,3.69
+1250,EIX,Enterprise Value/EBITDA 7,13.23
+1251,EL,Market Cap (intraday) 5,125.70B
+1252,EL,Enterprise Value 3,129.69B
+1253,EL,Trailing P/E,42.33
+1254,EL,Forward P/E 1,47.17
+1255,EL,PEG Ratio (5 yr expected) 1,4.34
+1256,EL,Price/Sales (ttm),7.55
+1257,EL,Price/Book (mrq),20.67
+1258,EL,Enterprise Value/Revenue 3,7.61
+1259,EL,Enterprise Value/EBITDA 7,29.44
+1260,EMN,Market Cap (intraday) 5,15.20B
+1261,EMN,Enterprise Value 3,19.97B
+1262,EMN,Trailing P/E,30.39
+1263,EMN,Forward P/E 1,12.92
+1264,EMN,PEG Ratio (5 yr expected) 1,1.36
+1265,EMN,Price/Sales (ttm),1.56
+1266,EMN,Price/Book (mrq),2.48
+1267,EMN,Enterprise Value/Revenue 3,2.00
+1268,EMN,Enterprise Value/EBITDA 7,14.87
+1269,EMR,Market Cap (intraday) 5,56.20B
+1270,EMR,Enterprise Value 3,60.92B
+1271,EMR,Trailing P/E,24.73
+1272,EMR,Forward P/E 1,19.27
+1273,EMR,PEG Ratio (5 yr expected) 1,1.93
+1274,EMR,Price/Sales (ttm),3.12
+1275,EMR,Price/Book (mrq),5.69
+1276,EMR,Enterprise Value/Revenue 3,3.34
+1277,EMR,Enterprise Value/EBITDA 7,15.05
+1278,ENPH,Market Cap (intraday) 5,33.80B
+1279,ENPH,Enterprise Value 3,33.43B
+1280,ENPH,Trailing P/E,215.95
+1281,ENPH,Forward P/E 1,83.33
+1282,ENPH,PEG Ratio (5 yr expected) 1,2.10
+1283,ENPH,Price/Sales (ttm),29.24
+1284,ENPH,Price/Book (mrq),52.17
+1285,ENPH,Enterprise Value/Revenue 3,27.09
+1286,ENPH,Enterprise Value/EBITDA 7,161.57
+1287,ESS,Market Cap (intraday) 5,22.17B
+1288,ESS,Enterprise Value 3,28.10B
+1289,ESS,Trailing P/E,49.52
+1290,ESS,Forward P/E 1,60.98
+1291,ESS,PEG Ratio (5 yr expected) 1,4.66
+1292,ESS,Price/Sales (ttm),15.50
+1293,ESS,Price/Book (mrq),3.73
+1294,ESS,Enterprise Value/Revenue 3,19.64
+1295,ESS,Enterprise Value/EBITDA 7,23.33
+1296,ETN,Market Cap (intraday) 5,68.79B
+1297,ETN,Enterprise Value 3,77.53B
+1298,ETN,Trailing P/E,33.51
+1299,ETN,Forward P/E 1,23.47
+1300,ETN,PEG Ratio (5 yr expected) 1,1.77
+1301,ETN,Price/Sales (ttm),3.55
+1302,ETN,Price/Book (mrq),4.31
+1303,ETN,Enterprise Value/Revenue 3,3.97
+1304,ETN,Enterprise Value/EBITDA 7,20.07
+1305,ETR,Market Cap (intraday) 5,
+1306,ETR,Enterprise Value 3,
+1307,ETR,Trailing P/E,
+1308,ETR,Forward P/E 1,
+1309,ETR,PEG Ratio (5 yr expected) 1,
+1310,ETR,Price/Sales (ttm),
+1311,ETR,Price/Book (mrq),
+1312,ETR,Enterprise Value/Revenue 3,
+1313,ETR,Enterprise Value/EBITDA 7,
+1314,ETSY,Market Cap (intraday) 5,35.44B
+1315,ETSY,Enterprise Value 3,36.94B
+1316,ETSY,Trailing P/E,82.21
+1317,ETSY,Forward P/E 1,81.30
+1318,ETSY,PEG Ratio (5 yr expected) 1,3.96
+1319,ETSY,Price/Sales (ttm),18.19
+1320,ETSY,Price/Book (mrq),66.41
+1321,ETSY,Enterprise Value/Revenue 3,16.57
+1322,ETSY,Enterprise Value/EBITDA 7,65.89
+1323,EVRG,Market Cap (intraday) 5,15.18B
+1324,EVRG,Enterprise Value 3,25.94B
+1325,EVRG,Trailing P/E,17.28
+1326,EVRG,Forward P/E 1,18.90
+1327,EVRG,PEG Ratio (5 yr expected) 1,1.44
+1328,EVRG,Price/Sales (ttm),2.73
+1329,EVRG,Price/Book (mrq),1.63
+1330,EVRG,Enterprise Value/Revenue 3,4.67
+1331,EVRG,Enterprise Value/EBITDA 7,11.25
+1332,EXC,Market Cap (intraday) 5,53.20B
+1333,EXC,Enterprise Value 3,91.94B
+1334,EXC,Trailing P/E,31.80
+1335,EXC,Forward P/E 1,17.21
+1336,EXC,PEG Ratio (5 yr expected) 1,8.19
+1337,EXC,Price/Sales (ttm),1.53
+1338,EXC,Price/Book (mrq),1.57
+1339,EXC,Enterprise Value/Revenue 3,2.64
+1340,EXC,Enterprise Value/EBITDA 7,7.52
+1341,EXPD,Market Cap (intraday) 5,
+1342,EXPD,Enterprise Value 3,
+1343,EXPD,Trailing P/E,
+1344,EXPD,Forward P/E 1,
+1345,EXPD,PEG Ratio (5 yr expected) 1,
+1346,EXPD,Price/Sales (ttm),
+1347,EXPD,Price/Book (mrq),
+1348,EXPD,Enterprise Value/Revenue 3,
+1349,EXPD,Enterprise Value/EBITDA 7,
+1350,EXPE,Market Cap (intraday) 5,26.75B
+1351,EXPE,Enterprise Value 3,31.08B
+1352,EXPE,Trailing P/E,14.99
+1353,EXPE,Forward P/E 1,26.04
+1354,EXPE,PEG Ratio (5 yr expected) 1,27.97
+1355,EXPE,Price/Sales (ttm),3.58
+1356,EXPE,Price/Book (mrq),16.69
+1357,EXPE,Enterprise Value/Revenue 3,4.29
+1358,EXPE,Enterprise Value/EBITDA 7,84.69
+1359,F,Market Cap (intraday) 5,
+1360,F,Enterprise Value 3,
+1361,F,Trailing P/E,
+1362,F,Forward P/E 1,
+1363,F,PEG Ratio (5 yr expected) 1,
+1364,F,Price/Sales (ttm),
+1365,F,Price/Book (mrq),
+1366,F,Enterprise Value/Revenue 3,
+1367,F,Enterprise Value/EBITDA 7,
+1368,FBHS,Market Cap (intraday) 5,
+1369,FBHS,Enterprise Value 3,
+1370,FBHS,Trailing P/E,
+1371,FBHS,Forward P/E 1,
+1372,FBHS,PEG Ratio (5 yr expected) 1,
+1373,FBHS,Price/Sales (ttm),
+1374,FBHS,Price/Book (mrq),
+1375,FBHS,Enterprise Value/Revenue 3,
+1376,FBHS,Enterprise Value/EBITDA 7,
+1377,FCX,Market Cap (intraday) 5,56.76B
+1378,FCX,Enterprise Value 3,58.75B
+1379,FCX,Trailing P/E,14.58
+1380,FCX,Forward P/E 1,14.71
+1381,FCX,PEG Ratio (5 yr expected) 1,
+1382,FCX,Price/Sales (ttm),2.70
+1383,FCX,Price/Book (mrq),4.25
+1384,FCX,Enterprise Value/Revenue 3,2.77
+1385,FCX,Enterprise Value/EBITDA 7,6.06
+1386,FDX,Market Cap (intraday) 5,65.46B
+1387,FDX,Enterprise Value 3,94.94B
+1388,FDX,Trailing P/E,13.09
+1389,FDX,Forward P/E 1,12.11
+1390,FDX,PEG Ratio (5 yr expected) 1,1.06
+1391,FDX,Price/Sales (ttm),0.76
+1392,FDX,Price/Book (mrq),2.69
+1393,FDX,Enterprise Value/Revenue 3,1.10
+1394,FDX,Enterprise Value/EBITDA 7,8.53
+1395,FE,Market Cap (intraday) 5,21.18B
+1396,FE,Enterprise Value 3,44.34B
+1397,FE,Trailing P/E,20.81
+1398,FE,Forward P/E 1,14.97
+1399,FE,PEG Ratio (5 yr expected) 1,2.99
+1400,FE,Price/Sales (ttm),1.92
+1401,FE,Price/Book (mrq),2.83
+1402,FE,Enterprise Value/Revenue 3,4.03
+1403,FE,Enterprise Value/EBITDA 7,11.35
+1404,FFIV,Market Cap (intraday) 5,13.85B
+1405,FFIV,Enterprise Value 3,13.66B
+1406,FFIV,Trailing P/E,42.37
+1407,FFIV,Forward P/E 1,19.42
+1408,FFIV,PEG Ratio (5 yr expected) 1,1.28
+1409,FFIV,Price/Sales (ttm),5.39
+1410,FFIV,Price/Book (mrq),5.87
+1411,FFIV,Enterprise Value/Revenue 3,5.25
+1412,FFIV,Enterprise Value/EBITDA 7,26.81
+1413,FIS,Market Cap (intraday) 5,66.90B
+1414,FIS,Enterprise Value 3,85.29B
+1415,FIS,Trailing P/E,305.17
+1416,FIS,Forward P/E 1,14.56
+1417,FIS,PEG Ratio (5 yr expected) 1,1.16
+1418,FIS,Price/Sales (ttm),5.08
+1419,FIS,Price/Book (mrq),1.42
+1420,FIS,Enterprise Value/Revenue 3,6.31
+1421,FIS,Enterprise Value/EBITDA 7,18.28
+1422,FISV,Market Cap (intraday) 5,63.45B
+1423,FISV,Enterprise Value 3,83.51B
+1424,FISV,Trailing P/E,51.46
+1425,FISV,Forward P/E 1,15.48
+1426,FISV,PEG Ratio (5 yr expected) 1,0.96
+1427,FISV,Price/Sales (ttm),4.25
+1428,FISV,Price/Book (mrq),2.08
+1429,FISV,Enterprise Value/Revenue 3,5.29
+1430,FISV,Enterprise Value/EBITDA 7,15.22
+1431,FITB,Market Cap (intraday) 5,30.66B
+1432,FITB,Enterprise Value 3,
+1433,FITB,Trailing P/E,12.39
+1434,FITB,Forward P/E 1,13.35
+1435,FITB,PEG Ratio (5 yr expected) 1,0.91
+1436,FITB,Price/Sales (ttm),4.37
+1437,FITB,Price/Book (mrq),1.50
+1438,FITB,Enterprise Value/Revenue 3,
+1439,FITB,Enterprise Value/EBITDA 7,
+1440,FLT,Market Cap (intraday) 5,18.37B
+1441,FLT,Enterprise Value 3,22.79B
+1442,FLT,Trailing P/E,23.37
+1443,FLT,Forward P/E 1,14.88
+1444,FLT,PEG Ratio (5 yr expected) 1,1.18
+1445,FLT,Price/Sales (ttm),7.27
+1446,FLT,Price/Book (mrq),5.78
+1447,FLT,Enterprise Value/Revenue 3,8.60
+1448,FLT,Enterprise Value/EBITDA 7,15.54
+1449,FMC,Market Cap (intraday) 5,13.20B
+1450,FMC,Enterprise Value 3,16.25B
+1451,FMC,Trailing P/E,21.87
+1452,FMC,Forward P/E 1,13.61
+1453,FMC,PEG Ratio (5 yr expected) 1,1.34
+1454,FMC,Price/Sales (ttm),2.83
+1455,FMC,Price/Book (mrq),4.35
+1456,FMC,Enterprise Value/Revenue 3,3.40
+1457,FMC,Enterprise Value/EBITDA 7,15.27
+1458,FOX,Market Cap (intraday) 5,21.60B
+1459,FOX,Enterprise Value 3,24.66B
+1460,FOX,Trailing P/E,12.16
+1461,FOX,Forward P/E 1,12.80
+1462,FOX,PEG Ratio (5 yr expected) 1,14.38
+1463,FOX,Price/Sales (ttm),1.62
+1464,FOX,Price/Book (mrq),1.81
+1465,FOX,Enterprise Value/Revenue 3,1.86
+1466,FOX,Enterprise Value/EBITDA 7,7.96
+1467,FOXA,Market Cap (intraday) 5,21.60B
+1468,FOXA,Enterprise Value 3,24.66B
+1469,FOXA,Trailing P/E,13.09
+1470,FOXA,Forward P/E 1,13.77
+1471,FOXA,PEG Ratio (5 yr expected) 1,15.48
+1472,FOXA,Price/Sales (ttm),1.74
+1473,FOXA,Price/Book (mrq),1.95
+1474,FOXA,Enterprise Value/Revenue 3,1.86
+1475,FOXA,Enterprise Value/EBITDA 7,7.96
+1476,FRC,Market Cap (intraday) 5,39.08B
+1477,FRC,Enterprise Value 3,
+1478,FRC,Trailing P/E,30.02
+1479,FRC,Forward P/E 1,26.67
+1480,FRC,PEG Ratio (5 yr expected) 1,1.52
+1481,FRC,Price/Sales (ttm),8.28
+1482,FRC,Price/Book (mrq),3.28
+1483,FRC,Enterprise Value/Revenue 3,
+1484,FRC,Enterprise Value/EBITDA 7,
+1485,FRT,Market Cap (intraday) 5,10.24B
+1486,FRT,Enterprise Value 3,14.54B
+1487,FRT,Trailing P/E,43.47
+1488,FRT,Forward P/E 1,54.35
+1489,FRT,PEG Ratio (5 yr expected) 1,2.62
+1490,FRT,Price/Sales (ttm),11.06
+1491,FRT,Price/Book (mrq),4.45
+1492,FRT,Enterprise Value/Revenue 3,15.86
+1493,FRT,Enterprise Value/EBITDA 7,22.22
+1494,FTNT,Market Cap (intraday) 5,
+1495,FTNT,Enterprise Value 3,
+1496,FTNT,Trailing P/E,
+1497,FTNT,Forward P/E 1,
+1498,FTNT,PEG Ratio (5 yr expected) 1,
+1499,FTNT,Price/Sales (ttm),
+1500,FTNT,Price/Book (mrq),
+1501,FTNT,Enterprise Value/Revenue 3,
+1502,FTNT,Enterprise Value/EBITDA 7,
+1503,FTV,Market Cap (intraday) 5,27.98B
+1504,FTV,Enterprise Value 3,30.13B
+1505,FTV,Trailing P/E,16.29
+1506,FTV,Forward P/E 1,25.91
+1507,FTV,PEG Ratio (5 yr expected) 1,1.66
+1508,FTV,Price/Sales (ttm),5.48
+1509,FTV,Price/Book (mrq),3.00
+1510,FTV,Enterprise Value/Revenue 3,5.79
+1511,FTV,Enterprise Value/EBITDA 7,13.14
+1512,GD,Market Cap (intraday) 5,55.93B
+1513,GD,Enterprise Value 3,68.10B
+1514,GD,Trailing P/E,17.21
+1515,GD,Forward P/E 1,16.00
+1516,GD,PEG Ratio (5 yr expected) 1,2.35
+1517,GD,Price/Sales (ttm),1.47
+1518,GD,Price/Book (mrq),3.56
+1519,GD,Enterprise Value/Revenue 3,1.76
+1520,GD,Enterprise Value/EBITDA 7,12.97
+1521,GE,Market Cap (intraday) 5,107.44B
+1522,GE,Enterprise Value 3,140.08B
+1523,GE,Trailing P/E,74.12
+1524,GE,Forward P/E 1,23.98
+1525,GE,PEG Ratio (5 yr expected) 1,0.26
+1526,GE,Price/Sales (ttm),1.37
+1527,GE,Price/Book (mrq),2.87
+1528,GE,Enterprise Value/Revenue 3,1.78
+1529,GE,Enterprise Value/EBITDA 7,23.44
+1530,GILD,Market Cap (intraday) 5,87.89B
+1531,GILD,Enterprise Value 3,109.84B
+1532,GILD,Trailing P/E,11.94
+1533,GILD,Forward P/E 1,9.90
+1534,GILD,PEG Ratio (5 yr expected) 1,0.52
+1535,GILD,Price/Sales (ttm),3.23
+1536,GILD,Price/Book (mrq),4.09
+1537,GILD,Enterprise Value/Revenue 3,4.00
+1538,GILD,Enterprise Value/EBITDA 7,8.93
+1539,GL,Market Cap (intraday) 5,
+1540,GL,Enterprise Value 3,
+1541,GL,Trailing P/E,
+1542,GL,Forward P/E 1,
+1543,GL,PEG Ratio (5 yr expected) 1,
+1544,GL,Price/Sales (ttm),
+1545,GL,Price/Book (mrq),
+1546,GL,Enterprise Value/Revenue 3,
+1547,GL,Enterprise Value/EBITDA 7,
+1548,GLW,Market Cap (intraday) 5,33.65B
+1549,GLW,Enterprise Value 3,39.23B
+1550,GLW,Trailing P/E,39.04
+1551,GLW,Forward P/E 1,16.89
+1552,GLW,PEG Ratio (5 yr expected) 1,0.95
+1553,GLW,Price/Sales (ttm),2.36
+1554,GLW,Price/Book (mrq),2.77
+1555,GLW,Enterprise Value/Revenue 3,2.85
+1556,GLW,Enterprise Value/EBITDA 7,9.94
+1557,GNRC,Market Cap (intraday) 5,27.58B
+1558,GNRC,Enterprise Value 3,28.30B
+1559,GNRC,Trailing P/E,53.05
+1560,GNRC,Forward P/E 1,37.17
+1561,GNRC,PEG Ratio (5 yr expected) 1,2.05
+1562,GNRC,Price/Sales (ttm),8.18
+1563,GNRC,Price/Book (mrq),15.47
+1564,GNRC,Enterprise Value/Revenue 3,8.25
+1565,GNRC,Enterprise Value/EBITDA 7,35.30
+1566,GOOG,Market Cap (intraday) 5,1.94T
+1567,GOOG,Enterprise Value 3,1.83T
+1568,GOOG,Trailing P/E,28.28
+1569,GOOG,Forward P/E 1,26.81
+1570,GOOG,PEG Ratio (5 yr expected) 1,0.87
+1571,GOOG,Price/Sales (ttm),8.35
+1572,GOOG,Price/Book (mrq),7.96
+1573,GOOG,Enterprise Value/Revenue 3,7.65
+1574,GOOG,Enterprise Value/EBITDA 7,18.66
+1575,GOOGL,Market Cap (intraday) 5,
+1576,GOOGL,Enterprise Value 3,
+1577,GOOGL,Trailing P/E,
+1578,GOOGL,Forward P/E 1,
+1579,GOOGL,PEG Ratio (5 yr expected) 1,
+1580,GOOGL,Price/Sales (ttm),
+1581,GOOGL,Price/Book (mrq),
+1582,GOOGL,Enterprise Value/Revenue 3,
+1583,GOOGL,Enterprise Value/EBITDA 7,
+1584,GPC,Market Cap (intraday) 5,19.42B
+1585,GPC,Enterprise Value 3,21.72B
+1586,GPC,Trailing P/E,24.22
+1587,GPC,Forward P/E 1,19.53
+1588,GPC,PEG Ratio (5 yr expected) 1,1.56
+1589,GPC,Price/Sales (ttm),1.08
+1590,GPC,Price/Book (mrq),6.10
+1591,GPC,Enterprise Value/Revenue 3,1.19
+1592,GPC,Enterprise Value/EBITDA 7,15.08
+1593,GRMN,Market Cap (intraday) 5,27.46B
+1594,GRMN,Enterprise Value 3,25.55B
+1595,GRMN,Trailing P/E,24.37
+1596,GRMN,Forward P/E 1,23.81
+1597,GRMN,PEG Ratio (5 yr expected) 1,1.99
+1598,GRMN,Price/Sales (ttm),5.57
+1599,GRMN,Price/Book (mrq),4.69
+1600,GRMN,Enterprise Value/Revenue 3,5.17
+1601,GRMN,Enterprise Value/EBITDA 7,17.93
+1602,HAL,Market Cap (intraday) 5,19.38B
+1603,HAL,Enterprise Value 3,27.05B
+1604,HAL,Trailing P/E,48.11
+1605,HAL,Forward P/E 1,13.04
+1606,HAL,PEG Ratio (5 yr expected) 1,0.40
+1607,HAL,Price/Sales (ttm),1.35
+1608,HAL,Price/Book (mrq),3.41
+1609,HAL,Enterprise Value/Revenue 3,1.90
+1610,HAL,Enterprise Value/EBITDA 7,13.57
+1611,HCA,Market Cap (intraday) 5,71.85B
+1612,HCA,Enterprise Value 3,104.86B
+1613,HCA,Trailing P/E,11.80
+1614,HCA,Forward P/E 1,12.35
+1615,HCA,PEG Ratio (5 yr expected) 1,0.86
+1616,HCA,Price/Sales (ttm),1.34
+1617,HCA,Price/Book (mrq),
+1618,HCA,Enterprise Value/Revenue 3,1.81
+1619,HCA,Enterprise Value/EBITDA 7,7.68
+1620,HOLX,Market Cap (intraday) 5,
+1621,HOLX,Enterprise Value 3,
+1622,HOLX,Trailing P/E,
+1623,HOLX,Forward P/E 1,
+1624,HOLX,PEG Ratio (5 yr expected) 1,
+1625,HOLX,Price/Sales (ttm),
+1626,HOLX,Price/Book (mrq),
+1627,HOLX,Enterprise Value/Revenue 3,
+1628,HOLX,Enterprise Value/EBITDA 7,
+1629,HON,Market Cap (intraday) 5,
+1630,HON,Enterprise Value 3,
+1631,HON,Trailing P/E,
+1632,HON,Forward P/E 1,
+1633,HON,PEG Ratio (5 yr expected) 1,
+1634,HON,Price/Sales (ttm),
+1635,HON,Price/Book (mrq),
+1636,HON,Enterprise Value/Revenue 3,
+1637,HON,Enterprise Value/EBITDA 7,
+1638,HPE,Market Cap (intraday) 5,19.37B
+1639,HPE,Enterprise Value 3,30.30B
+1640,HPE,Trailing P/E,18.99
+1641,HPE,Forward P/E 1,7.29
+1642,HPE,PEG Ratio (5 yr expected) 1,0.63
+1643,HPE,Price/Sales (ttm),0.71
+1644,HPE,Price/Book (mrq),1.14
+1645,HPE,Enterprise Value/Revenue 3,1.10
+1646,HPE,Enterprise Value/EBITDA 7,6.47
+1647,HPQ,Market Cap (intraday) 5,
+1648,HPQ,Enterprise Value 3,
+1649,HPQ,Trailing P/E,
+1650,HPQ,Forward P/E 1,
+1651,HPQ,PEG Ratio (5 yr expected) 1,
+1652,HPQ,Price/Sales (ttm),
+1653,HPQ,Price/Book (mrq),
+1654,HPQ,Enterprise Value/Revenue 3,
+1655,HPQ,Enterprise Value/EBITDA 7,
+1656,HRL,Market Cap (intraday) 5,23.30B
+1657,HRL,Enterprise Value 3,26.31B
+1658,HRL,Trailing P/E,27.18
+1659,HRL,Forward P/E 1,22.37
+1660,HRL,PEG Ratio (5 yr expected) 1,4.02
+1661,HRL,Price/Sales (ttm),2.27
+1662,HRL,Price/Book (mrq),3.43
+1663,HRL,Enterprise Value/Revenue 3,2.54
+1664,HRL,Enterprise Value/EBITDA 7,20.13
+1665,HSIC,Market Cap (intraday) 5,10.53B
+1666,HSIC,Enterprise Value 3,11.53B
+1667,HSIC,Trailing P/E,17.29
+1668,HSIC,Forward P/E 1,16.42
+1669,HSIC,PEG Ratio (5 yr expected) 1,2.11
+1670,HSIC,Price/Sales (ttm),0.88
+1671,HSIC,Price/Book (mrq),3.04
+1672,HSIC,Enterprise Value/Revenue 3,0.94
+1673,HSIC,Enterprise Value/EBITDA 7,11.12
+1674,HST,Market Cap (intraday) 5,12.46B
+1675,HST,Enterprise Value 3,17.68B
+1676,HST,Trailing P/E,87.08
+1677,HST,Forward P/E 1,158.73
+1678,HST,PEG Ratio (5 yr expected) 1,
+1679,HST,Price/Sales (ttm),5.72
+1680,HST,Price/Book (mrq),2.04
+1681,HST,Enterprise Value/Revenue 3,8.19
+1682,HST,Enterprise Value/EBITDA 7,44.53
+1683,HSY,Market Cap (intraday) 5,37.28B
+1684,HSY,Enterprise Value 3,41.31B
+1685,HSY,Trailing P/E,26.27
+1686,HSY,Forward P/E 1,24.57
+1687,HSY,PEG Ratio (5 yr expected) 1,4.44
+1688,HSY,Price/Sales (ttm),4.27
+1689,HSY,Price/Book (mrq),14.75
+1690,HSY,Enterprise Value/Revenue 3,4.68
+1691,HSY,Enterprise Value/EBITDA 7,19.08
+1692,HUM,Market Cap (intraday) 5,56.20B
+1693,HUM,Enterprise Value 3,64.40B
+1694,HUM,Trailing P/E,21.11
+1695,HUM,Forward P/E 1,18.18
+1696,HUM,PEG Ratio (5 yr expected) 1,1.37
+1697,HUM,Price/Sales (ttm),0.70
+1698,HUM,Price/Book (mrq),3.46
+1699,HUM,Enterprise Value/Revenue 3,0.79
+1700,HUM,Enterprise Value/EBITDA 7,
+1701,HWM,Market Cap (intraday) 5,13.13B
+1702,HWM,Enterprise Value 3,16.75B
+1703,HWM,Trailing P/E,46.56
+1704,HWM,Forward P/E 1,21.14
+1705,HWM,PEG Ratio (5 yr expected) 1,0.80
+1706,HWM,Price/Sales (ttm),2.73
+1707,HWM,Price/Book (mrq),3.73
+1708,HWM,Enterprise Value/Revenue 3,3.40
+1709,HWM,Enterprise Value/EBITDA 7,18.04
+1710,IBM,Market Cap (intraday) 5,104.74B
+1711,IBM,Enterprise Value 3,155.66B
+1712,IBM,Trailing P/E,22.55
+1713,IBM,Forward P/E 1,10.07
+1714,IBM,PEG Ratio (5 yr expected) 1,2.00
+1715,IBM,Price/Sales (ttm),1.42
+1716,IBM,Price/Book (mrq),4.71
+1717,IBM,Enterprise Value/Revenue 3,2.09
+1718,IBM,Enterprise Value/EBITDA 7,12.00
+1719,ICE,Market Cap (intraday) 5,74.52B
+1720,ICE,Enterprise Value 3,88.40B
+1721,ICE,Trailing P/E,24.40
+1722,ICE,Forward P/E 1,24.27
+1723,ICE,PEG Ratio (5 yr expected) 1,2.71
+1724,ICE,Price/Sales (ttm),8.23
+1725,ICE,Price/Book (mrq),3.46
+1726,ICE,Enterprise Value/Revenue 3,9.74
+1727,ICE,Enterprise Value/EBITDA 7,15.48
+1728,IDXX,Market Cap (intraday) 5,52.57B
+1729,IDXX,Enterprise Value 3,53.39B
+1730,IDXX,Trailing P/E,71.10
+1731,IDXX,Forward P/E 1,68.97
+1732,IDXX,PEG Ratio (5 yr expected) 1,6.14
+1733,IDXX,Price/Sales (ttm),17.16
+1734,IDXX,Price/Book (mrq),69.65
+1735,IDXX,Enterprise Value/Revenue 3,17.03
+1736,IDXX,Enterprise Value/EBITDA 7,52.35
+1737,IEX,Market Cap (intraday) 5,17.97B
+1738,IEX,Enterprise Value 3,18.47B
+1739,IEX,Trailing P/E,41.98
+1740,IEX,Forward P/E 1,33.67
+1741,IEX,PEG Ratio (5 yr expected) 1,2.59
+1742,IEX,Price/Sales (ttm),6.80
+1743,IEX,Price/Book (mrq),6.59
+1744,IEX,Enterprise Value/Revenue 3,6.93
+1745,IEX,Enterprise Value/EBITDA 7,26.65
+1746,IFF,Market Cap (intraday) 5,37.57B
+1747,IFF,Enterprise Value 3,49.20B
+1748,IFF,Trailing P/E,111.80
+1749,IFF,Forward P/E 1,25.13
+1750,IFF,PEG Ratio (5 yr expected) 1,0.75
+1751,IFF,Price/Sales (ttm),3.09
+1752,IFF,Price/Book (mrq),1.75
+1753,IFF,Enterprise Value/Revenue 3,4.97
+1754,IFF,Enterprise Value/EBITDA 7,32.57
+1755,INCY,Market Cap (intraday) 5,14.10B
+1756,INCY,Enterprise Value 3,11.85B
+1757,INCY,Trailing P/E,26.37
+1758,INCY,Forward P/E 1,15.95
+1759,INCY,PEG Ratio (5 yr expected) 1,
+1760,INCY,Price/Sales (ttm),4.85
+1761,INCY,Price/Book (mrq),4.48
+1762,INCY,Enterprise Value/Revenue 3,4.07
+1763,INCY,Enterprise Value/EBITDA 7,17.53
+1764,INFO,Market Cap (intraday) 5,51.14B
+1765,INFO,Enterprise Value 3,56.01B
+1766,INFO,Trailing P/E,82.73
+1767,INFO,Forward P/E 1,36.23
+1768,INFO,PEG Ratio (5 yr expected) 1,3.22
+1769,INFO,Price/Sales (ttm),11.20
+1770,INFO,Price/Book (mrq),5.74
+1771,INFO,Enterprise Value/Revenue 3,12.21
+1772,INFO,Enterprise Value/EBITDA 7,35.68
+1773,INTC,Market Cap (intraday) 5,202.37B
+1774,INTC,Enterprise Value 3,208.04B
+1775,INTC,Trailing P/E,9.66
+1776,INTC,Forward P/E 1,13.76
+1777,INTC,PEG Ratio (5 yr expected) 1,2.75
+1778,INTC,Price/Sales (ttm),2.60
+1779,INTC,Price/Book (mrq),2.25
+1780,INTC,Enterprise Value/Revenue 3,2.65
+1781,INTC,Enterprise Value/EBITDA 7,5.73
+1782,IPG,Market Cap (intraday) 5,13.59B
+1783,IPG,Enterprise Value 3,16.36B
+1784,IPG,Trailing P/E,19.50
+1785,IPG,Forward P/E 1,14.41
+1786,IPG,PEG Ratio (5 yr expected) 1,2.30
+1787,IPG,Price/Sales (ttm),1.39
+1788,IPG,Price/Book (mrq),4.28
+1789,IPG,Enterprise Value/Revenue 3,1.66
+1790,IPG,Enterprise Value/EBITDA 7,11.47
+1791,IPGP,Market Cap (intraday) 5,8.76B
+1792,IPGP,Enterprise Value 3,7.29B
+1793,IPGP,Trailing P/E,33.76
+1794,IPGP,Forward P/E 1,27.03
+1795,IPGP,PEG Ratio (5 yr expected) 1,
+1796,IPGP,Price/Sales (ttm),6.20
+1797,IPGP,Price/Book (mrq),3.20
+1798,IPGP,Enterprise Value/Revenue 3,5.08
+1799,IPGP,Enterprise Value/EBITDA 7,16.52
+1800,IQV,Market Cap (intraday) 5,
+1801,IQV,Enterprise Value 3,
+1802,IQV,Trailing P/E,
+1803,IQV,Forward P/E 1,
+1804,IQV,PEG Ratio (5 yr expected) 1,
+1805,IQV,Price/Sales (ttm),
+1806,IQV,Price/Book (mrq),
+1807,IQV,Enterprise Value/Revenue 3,
+1808,IQV,Enterprise Value/EBITDA 7,
+1809,ISRG,Market Cap (intraday) 5,121.25B
+1810,ISRG,Enterprise Value 3,117.12B
+1811,ISRG,Trailing P/E,73.15
+1812,ISRG,Forward P/E 1,59.88
+1813,ISRG,PEG Ratio (5 yr expected) 1,18.73
+1814,ISRG,Price/Sales (ttm),22.55
+1815,ISRG,Price/Book (mrq),10.63
+1816,ISRG,Enterprise Value/Revenue 3,21.34
+1817,ISRG,Enterprise Value/EBITDA 7,55.89
+1818,IT,Market Cap (intraday) 5,26.65B
+1819,IT,Enterprise Value 3,29.08B
+1820,IT,Trailing P/E,40.25
+1821,IT,Forward P/E 1,32.15
+1822,IT,PEG Ratio (5 yr expected) 1,
+1823,IT,Price/Sales (ttm),6.26
+1824,IT,Price/Book (mrq),79.66
+1825,IT,Enterprise Value/Revenue 3,6.41
+1826,IT,Enterprise Value/EBITDA 7,22.73
+1827,JCI,Market Cap (intraday) 5,55.56B
+1828,JCI,Enterprise Value 3,61.97B
+1829,JCI,Trailing P/E,37.57
+1830,JCI,Forward P/E 1,23.92
+1831,JCI,PEG Ratio (5 yr expected) 1,1.71
+1832,JCI,Price/Sales (ttm),2.40
+1833,JCI,Price/Book (mrq),3.16
+1834,JCI,Enterprise Value/Revenue 3,2.62
+1835,JCI,Enterprise Value/EBITDA 7,16.85
+1836,JNJ,Market Cap (intraday) 5,421.85B
+1837,JNJ,Enterprise Value 3,424.77B
+1838,JNJ,Trailing P/E,23.95
+1839,JNJ,Forward P/E 1,15.38
+1840,JNJ,PEG Ratio (5 yr expected) 1,1.57
+1841,JNJ,Price/Sales (ttm),4.68
+1842,JNJ,Price/Book (mrq),6.00
+1843,JNJ,Enterprise Value/Revenue 3,4.65
+1844,JNJ,Enterprise Value/EBITDA 7,15.57
+1845,JPM,Market Cap (intraday) 5,493.41B
+1846,JPM,Enterprise Value 3,
+1847,JPM,Trailing P/E,10.56
+1848,JPM,Forward P/E 1,14.04
+1849,JPM,PEG Ratio (5 yr expected) 1,1.45
+1850,JPM,Price/Sales (ttm),4.20
+1851,JPM,Price/Book (mrq),1.93
+1852,JPM,Enterprise Value/Revenue 3,
+1853,JPM,Enterprise Value/EBITDA 7,
+1854,KEY,Market Cap (intraday) 5,22.31B
+1855,KEY,Enterprise Value 3,
+1856,KEY,Trailing P/E,9.40
+1857,KEY,Forward P/E 1,12.29
+1858,KEY,PEG Ratio (5 yr expected) 1,0.96
+1859,KEY,Price/Sales (ttm),3.24
+1860,KEY,Price/Book (mrq),1.43
+1861,KEY,Enterprise Value/Revenue 3,
+1862,KEY,Enterprise Value/EBITDA 7,
+1863,KEYS,Market Cap (intraday) 5,36.78B
+1864,KEYS,Enterprise Value 3,36.75B
+1865,KEYS,Trailing P/E,41.77
+1866,KEYS,Forward P/E 1,28.90
+1867,KEYS,PEG Ratio (5 yr expected) 1,2.30
+1868,KEYS,Price/Sales (ttm),7.56
+1869,KEYS,Price/Book (mrq),9.72
+1870,KEYS,Enterprise Value/Revenue 3,7.44
+1871,KEYS,Enterprise Value/EBITDA 7,26.59
+1872,KMB,Market Cap (intraday) 5,
+1873,KMB,Enterprise Value 3,
+1874,KMB,Trailing P/E,
+1875,KMB,Forward P/E 1,
+1876,KMB,PEG Ratio (5 yr expected) 1,
+1877,KMB,Price/Sales (ttm),
+1878,KMB,Price/Book (mrq),
+1879,KMB,Enterprise Value/Revenue 3,
+1880,KMB,Enterprise Value/EBITDA 7,
+1881,KMX,Market Cap (intraday) 5,23.89B
+1882,KMX,Enterprise Value 3,41.57B
+1883,KMX,Trailing P/E,20.93
+1884,KMX,Forward P/E 1,20.28
+1885,KMX,PEG Ratio (5 yr expected) 1,1.26
+1886,KMX,Price/Sales (ttm),0.94
+1887,KMX,Price/Book (mrq),4.86
+1888,KMX,Enterprise Value/Revenue 3,1.60
+1889,KMX,Enterprise Value/EBITDA 7,17.93
+1890,KO,Market Cap (intraday) 5,241.37B
+1891,KO,Enterprise Value 3,268.21B
+1892,KO,Trailing P/E,27.53
+1893,KO,Forward P/E 1,22.73
+1894,KO,PEG Ratio (5 yr expected) 1,2.48
+1895,KO,Price/Sales (ttm),6.41
+1896,KO,Price/Book (mrq),10.88
+1897,KO,Enterprise Value/Revenue 3,7.10
+1898,KO,Enterprise Value/EBITDA 7,17.75
+1899,KR,Market Cap (intraday) 5,32.02B
+1900,KR,Enterprise Value 3,49.95B
+1901,KR,Trailing P/E,28.52
+1902,KR,Forward P/E 1,13.14
+1903,KR,PEG Ratio (5 yr expected) 1,4.17
+1904,KR,Price/Sales (ttm),0.25
+1905,KR,Price/Book (mrq),3.45
+1906,KR,Enterprise Value/Revenue 3,0.37
+1907,KR,Enterprise Value/EBITDA 7,9.13
+1908,L,Market Cap (intraday) 5,
+1909,L,Enterprise Value 3,
+1910,L,Trailing P/E,
+1911,L,Forward P/E 1,
+1912,L,PEG Ratio (5 yr expected) 1,
+1913,L,Price/Sales (ttm),
+1914,L,Price/Book (mrq),
+1915,L,Enterprise Value/Revenue 3,
+1916,L,Enterprise Value/EBITDA 7,
+1917,LEN,Market Cap (intraday) 5,33.49B
+1918,LEN,Enterprise Value 3,37.33B
+1919,LEN,Trailing P/E,8.40
+1920,LEN,Forward P/E 1,8.33
+1921,LEN,PEG Ratio (5 yr expected) 1,0.57
+1922,LEN,Price/Sales (ttm),1.34
+1923,LEN,Price/Book (mrq),1.66
+1924,LEN,Enterprise Value/Revenue 3,1.46
+1925,LEN,Enterprise Value/EBITDA 7,6.82
+1926,LLY,Market Cap (intraday) 5,
+1927,LLY,Enterprise Value 3,
+1928,LLY,Trailing P/E,
+1929,LLY,Forward P/E 1,
+1930,LLY,PEG Ratio (5 yr expected) 1,
+1931,LLY,Price/Sales (ttm),
+1932,LLY,Price/Book (mrq),
+1933,LLY,Enterprise Value/Revenue 3,
+1934,LLY,Enterprise Value/EBITDA 7,
+1935,LNT,Market Cap (intraday) 5,14.21B
+1936,LNT,Enterprise Value 3,21.58B
+1937,LNT,Trailing P/E,22.43
+1938,LNT,Forward P/E 1,20.49
+1939,LNT,PEG Ratio (5 yr expected) 1,3.18
+1940,LNT,Price/Sales (ttm),3.99
+1941,LNT,Price/Book (mrq),2.37
+1942,LNT,Enterprise Value/Revenue 3,6.06
+1943,LNT,Enterprise Value/EBITDA 7,14.40
+1944,LOW,Market Cap (intraday) 5,
+1945,LOW,Enterprise Value 3,
+1946,LOW,Trailing P/E,
+1947,LOW,Forward P/E 1,
+1948,LOW,PEG Ratio (5 yr expected) 1,
+1949,LOW,Price/Sales (ttm),
+1950,LOW,Price/Book (mrq),
+1951,LOW,Enterprise Value/Revenue 3,
+1952,LOW,Enterprise Value/EBITDA 7,
+1953,LUMN,Market Cap (intraday) 5,14.15B
+1954,LUMN,Enterprise Value 3,43.67B
+1955,LUMN,Trailing P/E,10.49
+1956,LUMN,Forward P/E 1,9.47
+1957,LUMN,PEG Ratio (5 yr expected) 1,54.58
+1958,LUMN,Price/Sales (ttm),0.75
+1959,LUMN,Price/Book (mrq),1.27
+1960,LUMN,Enterprise Value/Revenue 3,2.19
+1961,LUMN,Enterprise Value/EBITDA 7,7.66
+1962,LUV,Market Cap (intraday) 5,
+1963,LUV,Enterprise Value 3,
+1964,LUV,Trailing P/E,
+1965,LUV,Forward P/E 1,
+1966,LUV,PEG Ratio (5 yr expected) 1,
+1967,LUV,Price/Sales (ttm),
+1968,LUV,Price/Book (mrq),
+1969,LUV,Enterprise Value/Revenue 3,
+1970,LUV,Enterprise Value/EBITDA 7,
+1971,LVS,Market Cap (intraday) 5,28.93B
+1972,LVS,Enterprise Value 3,41.82B
+1973,LVS,Trailing P/E,104.34
+1974,LVS,Forward P/E 1,37.88
+1975,LVS,PEG Ratio (5 yr expected) 1,
+1976,LVS,Price/Sales (ttm),5.89
+1977,LVS,Price/Book (mrq),13.76
+1978,LVS,Enterprise Value/Revenue 3,8.51
+1979,LVS,Enterprise Value/EBITDA 7,342.81
+1980,LYB,Market Cap (intraday) 5,30.47B
+1981,LYB,Enterprise Value 3,43.57B
+1982,LYB,Trailing P/E,5.34
+1983,LYB,Forward P/E 1,5.93
+1984,LYB,PEG Ratio (5 yr expected) 1,
+1985,LYB,Price/Sales (ttm),0.74
+1986,LYB,Price/Book (mrq),2.58
+1987,LYB,Enterprise Value/Revenue 3,1.06
+1988,LYB,Enterprise Value/EBITDA 7,5.00
+1989,LYV,Market Cap (intraday) 5,25.30B
+1990,LYV,Enterprise Value 3,27.96B
+1991,LYV,Trailing P/E,
+1992,LYV,Forward P/E 1,129.87
+1993,LYV,PEG Ratio (5 yr expected) 1,
+1994,LYV,Price/Sales (ttm),6.37
+1995,LYV,Price/Book (mrq),31.01
+1996,LYV,Enterprise Value/Revenue 3,7.35
+1997,LYV,Enterprise Value/EBITDA 7,-168.14
+1998,MAA,Market Cap (intraday) 5,23.85B
+1999,MAA,Enterprise Value 3,28.36B
+2000,MAA,Trailing P/E,55.53
+2001,MAA,Forward P/E 1,
+2002,MAA,PEG Ratio (5 yr expected) 1,
+2003,MAA,Price/Sales (ttm),14.16
+2004,MAA,Price/Book (mrq),4.03
+2005,MAA,Enterprise Value/Revenue 3,16.32
+2006,MAA,Enterprise Value/EBITDA 7,24.91
+2007,MCD,Market Cap (intraday) 5,191.03B
+2008,MCD,Enterprise Value 3,235.54B
+2009,MCD,Trailing P/E,26.36
+2010,MCD,Forward P/E 1,25.32
+2011,MCD,PEG Ratio (5 yr expected) 1,2.07
+2012,MCD,Price/Sales (ttm),8.53
+2013,MCD,Price/Book (mrq),
+2014,MCD,Enterprise Value/Revenue 3,10.46
+2015,MCD,Enterprise Value/EBITDA 7,19.79
+2016,MCHP,Market Cap (intraday) 5,
+2017,MCHP,Enterprise Value 3,
+2018,MCHP,Trailing P/E,
+2019,MCHP,Forward P/E 1,
+2020,MCHP,PEG Ratio (5 yr expected) 1,
+2021,MCHP,Price/Sales (ttm),
+2022,MCHP,Price/Book (mrq),
+2023,MCHP,Enterprise Value/Revenue 3,
+2024,MCHP,Enterprise Value/EBITDA 7,
+2025,MDLZ,Market Cap (intraday) 5,85.67B
+2026,MDLZ,Enterprise Value 3,102.73B
+2027,MDLZ,Trailing P/E,19.56
+2028,MDLZ,Forward P/E 1,19.76
+2029,MDLZ,PEG Ratio (5 yr expected) 1,3.27
+2030,MDLZ,Price/Sales (ttm),3.08
+2031,MDLZ,Price/Book (mrq),3.09
+2032,MDLZ,Enterprise Value/Revenue 3,3.62
+2033,MDLZ,Enterprise Value/EBITDA 7,18.08
+2034,MET,Market Cap (intraday) 5,53.30B
+2035,MET,Enterprise Value 3,83.23B
+2036,MET,Trailing P/E,10.47
+2037,MET,Forward P/E 1,8.45
+2038,MET,PEG Ratio (5 yr expected) 1,1.92
+2039,MET,Price/Sales (ttm),0.84
+2040,MET,Price/Book (mrq),0.77
+2041,MET,Enterprise Value/Revenue 3,1.25
+2042,MET,Enterprise Value/EBITDA 7,
+2043,MHK,Market Cap (intraday) 5,12.17B
+2044,MHK,Enterprise Value 3,13.74B
+2045,MHK,Trailing P/E,11.53
+2046,MHK,Forward P/E 1,11.38
+2047,MHK,PEG Ratio (5 yr expected) 1,
+2048,MHK,Price/Sales (ttm),1.14
+2049,MHK,Price/Book (mrq),1.39
+2050,MHK,Enterprise Value/Revenue 3,1.24
+2051,MHK,Enterprise Value/EBITDA 7,6.90
+2052,MMC,Market Cap (intraday) 5,85.72B
+2053,MMC,Enterprise Value 3,97.31B
+2054,MMC,Trailing P/E,32.09
+2055,MMC,Forward P/E 1,25.32
+2056,MMC,PEG Ratio (5 yr expected) 1,2.46
+2057,MMC,Price/Sales (ttm),4.56
+2058,MMC,Price/Book (mrq),8.81
+2059,MMC,Enterprise Value/Revenue 3,5.09
+2060,MMC,Enterprise Value/EBITDA 7,19.41
+2061,MMM,Market Cap (intraday) 5,101.14B
+2062,MMM,Enterprise Value 3,114.42B
+2063,MMM,Trailing P/E,17.36
+2064,MMM,Forward P/E 1,16.81
+2065,MMM,PEG Ratio (5 yr expected) 1,2.11
+2066,MMM,Price/Sales (ttm),2.91
+2067,MMM,Price/Book (mrq),6.99
+2068,MMM,Enterprise Value/Revenue 3,3.24
+2069,MMM,Enterprise Value/EBITDA 7,11.79
+2070,MNST,Market Cap (intraday) 5,47.14B
+2071,MNST,Enterprise Value 3,46.24B
+2072,MNST,Trailing P/E,31.15
+2073,MNST,Forward P/E 1,29.07
+2074,MNST,PEG Ratio (5 yr expected) 1,3.02
+2075,MNST,Price/Sales (ttm),8.98
+2076,MNST,Price/Book (mrq),7.55
+2077,MNST,Enterprise Value/Revenue 3,8.70
+2078,MNST,Enterprise Value/EBITDA 7,25.09
+2079,MO,Market Cap (intraday) 5,80.97B
+2080,MO,Enterprise Value 3,106.14B
+2081,MO,Trailing P/E,29.58
+2082,MO,Forward P/E 1,9.30
+2083,MO,PEG Ratio (5 yr expected) 1,7.56
+2084,MO,Price/Sales (ttm),3.87
+2085,MO,Price/Book (mrq),
+2086,MO,Enterprise Value/Revenue 3,5.04
+2087,MO,Enterprise Value/EBITDA 7,19.16
+2088,MPC,Market Cap (intraday) 5,39.31B
+2089,MPC,Enterprise Value 3,54.84B
+2090,MPC,Trailing P/E,87.47
+2091,MPC,Forward P/E 1,15.17
+2092,MPC,PEG Ratio (5 yr expected) 1,15.65
+2093,MPC,Price/Sales (ttm),0.40
+2094,MPC,Price/Book (mrq),1.39
+2095,MPC,Enterprise Value/Revenue 3,0.53
+2096,MPC,Enterprise Value/EBITDA 7,8.81
+2097,MRNA,Market Cap (intraday) 5,110.85B
+2098,MRNA,Enterprise Value 3,102.52B
+2099,MRNA,Trailing P/E,16.77
+2100,MRNA,Forward P/E 1,11.31
+2101,MRNA,PEG Ratio (5 yr expected) 1,
+2102,MRNA,Price/Sales (ttm),9.76
+2103,MRNA,Price/Book (mrq),10.95
+2104,MRNA,Enterprise Value/Revenue 3,8.67
+2105,MRNA,Enterprise Value/EBITDA 7,13.18
+2106,MRO,Market Cap (intraday) 5,12.85B
+2107,MRO,Enterprise Value 3,16.38B
+2108,MRO,Trailing P/E,17.28
+2109,MRO,Forward P/E 1,9.45
+2110,MRO,PEG Ratio (5 yr expected) 1,1.58
+2111,MRO,Price/Sales (ttm),2.78
+2112,MRO,Price/Book (mrq),1.19
+2113,MRO,Enterprise Value/Revenue 3,3.49
+2114,MRO,Enterprise Value/EBITDA 7,6.50
+2115,MS,Market Cap (intraday) 5,
+2116,MS,Enterprise Value 3,
+2117,MS,Trailing P/E,
+2118,MS,Forward P/E 1,
+2119,MS,PEG Ratio (5 yr expected) 1,
+2120,MS,Price/Sales (ttm),
+2121,MS,Price/Book (mrq),
+2122,MS,Enterprise Value/Revenue 3,
+2123,MS,Enterprise Value/EBITDA 7,
+2124,MSCI,Market Cap (intraday) 5,52.98B
+2125,MSCI,Enterprise Value 3,56.01B
+2126,MSCI,Trailing P/E,77.99
+2127,MSCI,Forward P/E 1,56.82
+2128,MSCI,PEG Ratio (5 yr expected) 1,3.87
+2129,MSCI,Price/Sales (ttm),27.70
+2130,MSCI,Price/Book (mrq),
+2131,MSCI,Enterprise Value/Revenue 3,28.91
+2132,MSCI,Enterprise Value/EBITDA 7,51.34
+2133,MSFT,Market Cap (intraday) 5,2.48T
+2134,MSFT,Enterprise Value 3,2.41T
+2135,MSFT,Trailing P/E,36.88
+2136,MSFT,Forward P/E 1,36.10
+2137,MSFT,PEG Ratio (5 yr expected) 1,2.80
+2138,MSFT,Price/Sales (ttm),14.20
+2139,MSFT,Price/Book (mrq),16.29
+2140,MSFT,Enterprise Value/Revenue 3,13.66
+2141,MSFT,Enterprise Value/EBITDA 7,26.74
+2142,MSI,Market Cap (intraday) 5,44.13B
+2143,MSI,Enterprise Value 3,48.62B
+2144,MSI,Trailing P/E,36.09
+2145,MSI,Forward P/E 1,26.45
+2146,MSI,PEG Ratio (5 yr expected) 1,2.03
+2147,MSI,Price/Sales (ttm),5.58
+2148,MSI,Price/Book (mrq),
+2149,MSI,Enterprise Value/Revenue 3,5.98
+2150,MSI,Enterprise Value/EBITDA 7,22.02
+2151,MTB,Market Cap (intraday) 5,20.78B
+2152,MTB,Enterprise Value 3,
+2153,MTB,Trailing P/E,11.57
+2154,MTB,Forward P/E 1,13.46
+2155,MTB,PEG Ratio (5 yr expected) 1,1.33
+2156,MTB,Price/Sales (ttm),3.45
+2157,MTB,Price/Book (mrq),1.32
+2158,MTB,Enterprise Value/Revenue 3,
+2159,MTB,Enterprise Value/EBITDA 7,
+2160,MTCH,Market Cap (intraday) 5,
+2161,MTCH,Enterprise Value 3,
+2162,MTCH,Trailing P/E,
+2163,MTCH,Forward P/E 1,
+2164,MTCH,PEG Ratio (5 yr expected) 1,
+2165,MTCH,Price/Sales (ttm),
+2166,MTCH,Price/Book (mrq),
+2167,MTCH,Enterprise Value/Revenue 3,
+2168,MTCH,Enterprise Value/EBITDA 7,
+2169,MTD,Market Cap (intraday) 5,34.90B
+2170,MTD,Enterprise Value 3,36.41B
+2171,MTD,Trailing P/E,47.67
+2172,MTD,Forward P/E 1,44.05
+2173,MTD,PEG Ratio (5 yr expected) 1,2.99
+2174,MTD,Price/Sales (ttm),9.92
+2175,MTD,Price/Book (mrq),219.25
+2176,MTD,Enterprise Value/Revenue 3,10.06
+2177,MTD,Enterprise Value/EBITDA 7,33.74
+2178,MU,Market Cap (intraday) 5,95.54B
+2179,MU,Enterprise Value 3,94.19B
+2180,MU,Trailing P/E,16.62
+2181,MU,Forward P/E 1,9.29
+2182,MU,PEG Ratio (5 yr expected) 1,1.03
+2183,MU,Price/Sales (ttm),3.52
+2184,MU,Price/Book (mrq),2.17
+2185,MU,Enterprise Value/Revenue 3,3.40
+2186,MU,Enterprise Value/EBITDA 7,7.47
+2187,NEE,Market Cap (intraday) 5,171.31B
+2188,NEE,Enterprise Value 3,225.96B
+2189,NEE,Trailing P/E,73.37
+2190,NEE,Forward P/E 1,31.75
+2191,NEE,PEG Ratio (5 yr expected) 1,3.60
+2192,NEE,Price/Sales (ttm),10.48
+2193,NEE,Price/Book (mrq),4.67
+2194,NEE,Enterprise Value/Revenue 3,13.76
+2195,NEE,Enterprise Value/EBITDA 7,33.73
+2196,NKE,Market Cap (intraday) 5,272.48B
+2197,NKE,Enterprise Value 3,271.58B
+2198,NKE,Trailing P/E,45.66
+2199,NKE,Forward P/E 1,46.73
+2200,NKE,PEG Ratio (5 yr expected) 1,3.48
+2201,NKE,Price/Sales (ttm),6.02
+2202,NKE,Price/Book (mrq),19.00
+2203,NKE,Enterprise Value/Revenue 3,5.88
+2204,NKE,Enterprise Value/EBITDA 7,37.23
+2205,NLOK,Market Cap (intraday) 5,14.66B
+2206,NLOK,Enterprise Value 3,17.08B
+2207,NLOK,Trailing P/E,16.69
+2208,NLOK,Forward P/E 1,14.37
+2209,NLOK,PEG Ratio (5 yr expected) 1,0.85
+2210,NLOK,Price/Sales (ttm),5.55
+2211,NLOK,Price/Book (mrq),1190.0
+2212,NLOK,Enterprise Value/Revenue 3,6.35
+2213,NLOK,Enterprise Value/EBITDA 7,11.44
+2214,NLSN,Market Cap (intraday) 5,
+2215,NLSN,Enterprise Value 3,
+2216,NLSN,Trailing P/E,
+2217,NLSN,Forward P/E 1,
+2218,NLSN,PEG Ratio (5 yr expected) 1,
+2219,NLSN,Price/Sales (ttm),
+2220,NLSN,Price/Book (mrq),
+2221,NLSN,Enterprise Value/Revenue 3,
+2222,NLSN,Enterprise Value/EBITDA 7,
+2223,NOW,Market Cap (intraday) 5,126.75B
+2224,NOW,Enterprise Value 3,125.94B
+2225,NOW,Trailing P/E,584.32
+2226,NOW,Forward P/E 1,86.96
+2227,NOW,PEG Ratio (5 yr expected) 1,2.69
+2228,NOW,Price/Sales (ttm),23.30
+2229,NOW,Price/Book (mrq),35.86
+2230,NOW,Enterprise Value/Revenue 3,22.76
+2231,NOW,Enterprise Value/EBITDA 7,180.35
+2232,NRG,Market Cap (intraday) 5,9.12B
+2233,NRG,Enterprise Value 3,17.66B
+2234,NRG,Trailing P/E,3.74
+2235,NRG,Forward P/E 1,10.37
+2236,NRG,PEG Ratio (5 yr expected) 1,0.55
+2237,NRG,Price/Sales (ttm),0.41
+2238,NRG,Price/Book (mrq),2.24
+2239,NRG,Enterprise Value/Revenue 3,0.80
+2240,NRG,Enterprise Value/EBITDA 7,3.85
+2241,NSC,Market Cap (intraday) 5,67.60B
+2242,NSC,Enterprise Value 3,79.96B
+2243,NSC,Trailing P/E,23.91
+2244,NSC,Forward P/E 1,20.45
+2245,NSC,PEG Ratio (5 yr expected) 1,1.65
+2246,NSC,Price/Sales (ttm),6.42
+2247,NSC,Price/Book (mrq),4.87
+2248,NSC,Enterprise Value/Revenue 3,7.36
+2249,NSC,Enterprise Value/EBITDA 7,14.35
+2250,NUE,Market Cap (intraday) 5,33.09B
+2251,NUE,Enterprise Value 3,36.75B
+2252,NUE,Trailing P/E,6.96
+2253,NUE,Forward P/E 1,5.64
+2254,NUE,PEG Ratio (5 yr expected) 1,
+2255,NUE,Price/Sales (ttm),1.10
+2256,NUE,Price/Book (mrq),2.47
+2257,NUE,Enterprise Value/Revenue 3,1.17
+2258,NUE,Enterprise Value/EBITDA 7,4.97
+2259,NVDA,Market Cap (intraday) 5,793.65B
+2260,NVDA,Enterprise Value 3,786.04B
+2261,NVDA,Trailing P/E,97.76
+2262,NVDA,Forward P/E 1,61.73
+2263,NVDA,PEG Ratio (5 yr expected) 1,3.38
+2264,NVDA,Price/Sales (ttm),33.13
+2265,NVDA,Price/Book (mrq),33.35
+2266,NVDA,Enterprise Value/Revenue 3,32.38
+2267,NVDA,Enterprise Value/EBITDA 7,79.18
+2268,NVR,Market Cap (intraday) 5,18.53B
+2269,NVR,Enterprise Value 3,17.42B
+2270,NVR,Trailing P/E,17.23
+2271,NVR,Forward P/E 1,13.81
+2272,NVR,PEG Ratio (5 yr expected) 1,
+2273,NVR,Price/Sales (ttm),2.30
+2274,NVR,Price/Book (mrq),6.14
+2275,NVR,Enterprise Value/Revenue 3,1.92
+2276,NVR,Enterprise Value/EBITDA 7,10.74
+2277,NWSA,Market Cap (intraday) 5,13.08B
+2278,NWSA,Enterprise Value 3,14.47B
+2279,NWSA,Trailing P/E,26.48
+2280,NWSA,Forward P/E 1,29.15
+2281,NWSA,PEG Ratio (5 yr expected) 1,2.23
+2282,NWSA,Price/Sales (ttm),1.34
+2283,NWSA,Price/Book (mrq),1.59
+2284,NWSA,Enterprise Value/Revenue 3,1.49
+2285,NWSA,Enterprise Value/EBITDA 7,9.88
+2286,O,Market Cap (intraday) 5,39.55B
+2287,O,Enterprise Value 3,48.57B
+2288,O,Trailing P/E,55.62
+2289,O,Forward P/E 1,41.67
+2290,O,PEG Ratio (5 yr expected) 1,4.84
+2291,O,Price/Sales (ttm),14.51
+2292,O,Price/Book (mrq),3.00
+2293,O,Enterprise Value/Revenue 3,26.73
+2294,O,Enterprise Value/EBITDA 7,31.90
+2295,ODFL,Market Cap (intraday) 5,40.82B
+2296,ODFL,Enterprise Value 3,40.36B
+2297,ODFL,Trailing P/E,43.88
+2298,ODFL,Forward P/E 1,35.84
+2299,ODFL,PEG Ratio (5 yr expected) 1,2.08
+2300,ODFL,Price/Sales (ttm),8.44
+2301,ODFL,Price/Book (mrq),11.94
+2302,ODFL,Enterprise Value/Revenue 3,8.20
+2303,ODFL,Enterprise Value/EBITDA 7,26.37
+2304,OGN,Market Cap (intraday) 5,7.91B
+2305,OGN,Enterprise Value 3,16.20B
+2306,OGN,Trailing P/E,5.54
+2307,OGN,Forward P/E 1,
+2308,OGN,PEG Ratio (5 yr expected) 1,
+2309,OGN,Price/Sales (ttm),1.00
+2310,OGN,Price/Book (mrq),
+2311,OGN,Enterprise Value/Revenue 3,2.06
+2312,OGN,Enterprise Value/EBITDA 7,7.40
+2313,OKE,Market Cap (intraday) 5,28.54B
+2314,OKE,Enterprise Value 3,42.59B
+2315,OKE,Trailing P/E,19.94
+2316,OKE,Forward P/E 1,16.16
+2317,OKE,PEG Ratio (5 yr expected) 1,1.43
+2318,OKE,Price/Sales (ttm),2.09
+2319,OKE,Price/Book (mrq),4.89
+2320,OKE,Enterprise Value/Revenue 3,3.11
+2321,OKE,Enterprise Value/EBITDA 7,13.18
+2322,OMC,Market Cap (intraday) 5,14.65B
+2323,OMC,Enterprise Value 3,16.49B
+2324,OMC,Trailing P/E,10.74
+2325,OMC,Forward P/E 1,10.57
+2326,OMC,PEG Ratio (5 yr expected) 1,0.94
+2327,OMC,Price/Sales (ttm),1.05
+2328,OMC,Price/Book (mrq),4.47
+2329,OMC,Enterprise Value/Revenue 3,1.16
+2330,OMC,Enterprise Value/EBITDA 7,6.79
+2331,ORCL,Market Cap (intraday) 5,254.07B
+2332,ORCL,Enterprise Value 3,297.48B
+2333,ORCL,Trailing P/E,19.82
+2334,ORCL,Forward P/E 1,19.72
+2335,ORCL,PEG Ratio (5 yr expected) 1,2.51
+2336,ORCL,Price/Sales (ttm),6.74
+2337,ORCL,Price/Book (mrq),
+2338,ORCL,Enterprise Value/Revenue 3,7.28
+2339,ORCL,Enterprise Value/EBITDA 7,15.96
+2340,ORLY,Market Cap (intraday) 5,43.88B
+2341,ORLY,Enterprise Value 3,49.33B
+2342,ORLY,Trailing P/E,22.57
+2343,ORLY,Forward P/E 1,22.12
+2344,ORLY,PEG Ratio (5 yr expected) 1,1.42
+2345,ORLY,Price/Sales (ttm),3.59
+2346,ORLY,Price/Book (mrq),
+2347,ORLY,Enterprise Value/Revenue 3,3.83
+2348,ORLY,Enterprise Value/EBITDA 7,15.88
+2349,OTIS,Market Cap (intraday) 5,35.88B
+2350,OTIS,Enterprise Value 3,40.18B
+2351,OTIS,Trailing P/E,30.16
+2352,OTIS,Forward P/E 1,25.64
+2353,OTIS,PEG Ratio (5 yr expected) 1,2.62
+2354,OTIS,Price/Sales (ttm),2.57
+2355,OTIS,Price/Book (mrq),
+2356,OTIS,Enterprise Value/Revenue 3,2.83
+2357,OTIS,Enterprise Value/EBITDA 7,17.82
+2358,OXY,Market Cap (intraday) 5,29.90B
+2359,OXY,Enterprise Value 3,70.15B
+2360,OXY,Trailing P/E,
+2361,OXY,Forward P/E 1,12.50
+2362,OXY,PEG Ratio (5 yr expected) 1,
+2363,OXY,Price/Sales (ttm),1.37
+2364,OXY,Price/Book (mrq),3.28
+2365,OXY,Enterprise Value/Revenue 3,3.16
+2366,OXY,Enterprise Value/EBITDA 7,6.93
+2367,PAYC,Market Cap (intraday) 5,26.91B
+2368,PAYC,Enterprise Value 3,26.71B
+2369,PAYC,Trailing P/E,151.99
+2370,PAYC,Forward P/E 1,80.00
+2371,PAYC,PEG Ratio (5 yr expected) 1,2.81
+2372,PAYC,Price/Sales (ttm),26.32
+2373,PAYC,Price/Book (mrq),32.61
+2374,PAYC,Enterprise Value/Revenue 3,26.94
+2375,PAYC,Enterprise Value/EBITDA 7,93.69
+2376,PAYX,Market Cap (intraday) 5,45.24B
+2377,PAYX,Enterprise Value 3,45.00B
+2378,PAYX,Trailing P/E,37.34
+2379,PAYX,Forward P/E 1,36.23
+2380,PAYX,PEG Ratio (5 yr expected) 1,4.77
+2381,PAYX,Price/Sales (ttm),10.81
+2382,PAYX,Price/Book (mrq),14.87
+2383,PAYX,Enterprise Value/Revenue 3,10.69
+2384,PAYX,Enterprise Value/EBITDA 7,24.78
+2385,PBCT,Market Cap (intraday) 5,
+2386,PBCT,Enterprise Value 3,
+2387,PBCT,Trailing P/E,
+2388,PBCT,Forward P/E 1,
+2389,PBCT,PEG Ratio (5 yr expected) 1,
+2390,PBCT,Price/Sales (ttm),
+2391,PBCT,Price/Book (mrq),
+2392,PBCT,Enterprise Value/Revenue 3,
+2393,PBCT,Enterprise Value/EBITDA 7,
+2394,PEAK,Market Cap (intraday) 5,18.45B
+2395,PEAK,Enterprise Value 3,23.98B
+2396,PEAK,Trailing P/E,285.17
+2397,PEAK,Forward P/E 1,72.99
+2398,PEAK,PEG Ratio (5 yr expected) 1,3.97
+2399,PEAK,Price/Sales (ttm),10.00
+2400,PEAK,Price/Book (mrq),2.77
+2401,PEAK,Enterprise Value/Revenue 3,13.00
+2402,PEAK,Enterprise Value/EBITDA 7,25.58
+2403,PEP,Market Cap (intraday) 5,228.48B
+2404,PEP,Enterprise Value 3,262.89B
+2405,PEP,Trailing P/E,28.15
+2406,PEP,Forward P/E 1,24.69
+2407,PEP,PEG Ratio (5 yr expected) 1,3.14
+2408,PEP,Price/Sales (ttm),2.99
+2409,PEP,Price/Book (mrq),14.40
+2410,PEP,Enterprise Value/Revenue 3,3.43
+2411,PEP,Enterprise Value/EBITDA 7,18.33
+2412,PFE,Market Cap (intraday) 5,286.71B
+2413,PFE,Enterprise Value 3,295.42B
+2414,PFE,Trailing P/E,14.85
+2415,PFE,Forward P/E 1,10.72
+2416,PFE,PEG Ratio (5 yr expected) 1,1.55
+2417,PFE,Price/Sales (ttm),4.19
+2418,PFE,Price/Book (mrq),3.79
+2419,PFE,Enterprise Value/Revenue 3,4.26
+2420,PFE,Enterprise Value/EBITDA 7,10.69
+2421,PG,Market Cap (intraday) 5,356.87B
+2422,PG,Enterprise Value 3,379.91B
+2423,PG,Trailing P/E,26.91
+2424,PG,Forward P/E 1,24.94
+2425,PG,PEG Ratio (5 yr expected) 1,5.42
+2426,PG,Price/Sales (ttm),4.94
+2427,PG,Price/Book (mrq),7.89
+2428,PG,Enterprise Value/Revenue 3,4.93
+2429,PG,Enterprise Value/EBITDA 7,18.44
+2430,PGR,Market Cap (intraday) 5,55.24B
+2431,PGR,Enterprise Value 3,60.36B
+2432,PGR,Trailing P/E,13.74
+2433,PGR,Forward P/E 1,17.83
+2434,PGR,PEG Ratio (5 yr expected) 1,89.17
+2435,PGR,Price/Sales (ttm),1.19
+2436,PGR,Price/Book (mrq),3.06
+2437,PGR,Enterprise Value/Revenue 3,1.30
+2438,PGR,Enterprise Value/EBITDA 7,
+2439,PH,Market Cap (intraday) 5,41.77B
+2440,PH,Enterprise Value 3,47.82B
+2441,PH,Trailing P/E,22.65
+2442,PH,Forward P/E 1,18.42
+2443,PH,PEG Ratio (5 yr expected) 1,1.39
+2444,PH,Price/Sales (ttm),2.86
+2445,PH,Price/Book (mrq),4.92
+2446,PH,Enterprise Value/Revenue 3,3.21
+2447,PH,Enterprise Value/EBITDA 7,14.75
+2448,PHM,Market Cap (intraday) 5,13.39B
+2449,PHM,Enterprise Value 3,13.76B
+2450,PHM,Trailing P/E,8.14
+2451,PHM,Forward P/E 1,5.77
+2452,PHM,PEG Ratio (5 yr expected) 1,
+2453,PHM,Price/Sales (ttm),1.09
+2454,PHM,Price/Book (mrq),1.87
+2455,PHM,Enterprise Value/Revenue 3,1.08
+2456,PHM,Enterprise Value/EBITDA 7,6.12
+2457,PLD,Market Cap (intraday) 5,
+2458,PLD,Enterprise Value 3,
+2459,PLD,Trailing P/E,
+2460,PLD,Forward P/E 1,
+2461,PLD,PEG Ratio (5 yr expected) 1,
+2462,PLD,Price/Sales (ttm),
+2463,PLD,Price/Book (mrq),
+2464,PLD,Enterprise Value/Revenue 3,
+2465,PLD,Enterprise Value/EBITDA 7,
+2466,PM,Market Cap (intraday) 5,
+2467,PM,Enterprise Value 3,
+2468,PM,Trailing P/E,
+2469,PM,Forward P/E 1,
+2470,PM,PEG Ratio (5 yr expected) 1,
+2471,PM,Price/Sales (ttm),
+2472,PM,Price/Book (mrq),
+2473,PM,Enterprise Value/Revenue 3,
+2474,PM,Enterprise Value/EBITDA 7,
+2475,PNC,Market Cap (intraday) 5,
+2476,PNC,Enterprise Value 3,
+2477,PNC,Trailing P/E,
+2478,PNC,Forward P/E 1,
+2479,PNC,PEG Ratio (5 yr expected) 1,
+2480,PNC,Price/Sales (ttm),
+2481,PNC,Price/Book (mrq),
+2482,PNC,Enterprise Value/Revenue 3,
+2483,PNC,Enterprise Value/EBITDA 7,
+2484,PNR,Market Cap (intraday) 5,12.45B
+2485,PNR,Enterprise Value 3,13.06B
+2486,PNR,Trailing P/E,24.91
+2487,PNR,Forward P/E 1,19.92
+2488,PNR,PEG Ratio (5 yr expected) 1,1.60
+2489,PNR,Price/Sales (ttm),3.53
+2490,PNR,Price/Book (mrq),5.33
+2491,PNR,Enterprise Value/Revenue 3,3.66
+2492,PNR,Enterprise Value/EBITDA 7,19.26
+2493,POOL,Market Cap (intraday) 5,22.79B
+2494,POOL,Enterprise Value 3,23.29B
+2495,POOL,Trailing P/E,38.51
+2496,POOL,Forward P/E 1,
+2497,POOL,PEG Ratio (5 yr expected) 1,
+2498,POOL,Price/Sales (ttm),4.55
+2499,POOL,Price/Book (mrq),23.13
+2500,POOL,Enterprise Value/Revenue 3,4.57
+2501,POOL,Enterprise Value/EBITDA 7,28.80
+2502,PPL,Market Cap (intraday) 5,21.52B
+2503,PPL,Enterprise Value 3,27.89B
+2504,PPL,Trailing P/E,25.36
+2505,PPL,Forward P/E 1,18.48
+2506,PPL,PEG Ratio (5 yr expected) 1,
+2507,PPL,Price/Sales (ttm),2.82
+2508,PPL,Price/Book (mrq),1.48
+2509,PPL,Enterprise Value/Revenue 3,3.57
+2510,PPL,Enterprise Value/EBITDA 7,6.50
+2511,PRU,Market Cap (intraday) 5,41.65B
+2512,PRU,Enterprise Value 3,60.21B
+2513,PRU,Trailing P/E,6.00
+2514,PRU,Forward P/E 1,8.76
+2515,PRU,PEG Ratio (5 yr expected) 1,1.56
+2516,PRU,Price/Sales (ttm),0.61
+2517,PRU,Price/Book (mrq),0.67
+2518,PRU,Enterprise Value/Revenue 3,0.85
+2519,PRU,Enterprise Value/EBITDA 7,
+2520,PSA,Market Cap (intraday) 5,57.34B
+2521,PSA,Enterprise Value 3,66.17B
+2522,PSA,Trailing P/E,39.07
+2523,PSA,Forward P/E 1,34.97
+2524,PSA,PEG Ratio (5 yr expected) 1,2.66
+2525,PSA,Price/Sales (ttm),17.69
+2526,PSA,Price/Book (mrq),11.46
+2527,PSA,Enterprise Value/Revenue 3,20.42
+2528,PSA,Enterprise Value/EBITDA 7,27.40
+2529,PTC,Market Cap (intraday) 5,12.97B
+2530,PTC,Enterprise Value 3,14.29B
+2531,PTC,Trailing P/E,27.30
+2532,PTC,Forward P/E 1,27.40
+2533,PTC,PEG Ratio (5 yr expected) 1,2.11
+2534,PTC,Price/Sales (ttm),7.20
+2535,PTC,Price/Book (mrq),6.36
+2536,PTC,Enterprise Value/Revenue 3,7.91
+2537,PTC,Enterprise Value/EBITDA 7,25.30
+2538,PVH,Market Cap (intraday) 5,8.40B
+2539,PVH,Enterprise Value 3,11.83B
+2540,PVH,Trailing P/E,29.19
+2541,PVH,Forward P/E 1,11.93
+2542,PVH,PEG Ratio (5 yr expected) 1,
+2543,PVH,Price/Sales (ttm),0.99
+2544,PVH,Price/Book (mrq),1.67
+2545,PVH,Enterprise Value/Revenue 3,1.38
+2546,PVH,Enterprise Value/EBITDA 7,12.44
+2547,PWR,Market Cap (intraday) 5,17.38B
+2548,PWR,Enterprise Value 3,18.88B
+2549,PWR,Trailing P/E,32.02
+2550,PWR,Forward P/E 1,19.23
+2551,PWR,PEG Ratio (5 yr expected) 1,
+2552,PWR,Price/Sales (ttm),1.48
+2553,PWR,Price/Book (mrq),3.75
+2554,PWR,Enterprise Value/Revenue 3,1.58
+2555,PWR,Enterprise Value/EBITDA 7,17.79
+2556,PXD,Market Cap (intraday) 5,45.91B
+2557,PXD,Enterprise Value 3,52.45B
+2558,PXD,Trailing P/E,32.09
+2559,PXD,Forward P/E 1,8.94
+2560,PXD,PEG Ratio (5 yr expected) 1,0.31
+2561,PXD,Price/Sales (ttm),2.93
+2562,PXD,Price/Book (mrq),1.98
+2563,PXD,Enterprise Value/Revenue 3,3.67
+2564,PXD,Enterprise Value/EBITDA 7,12.56
+2565,QCOM,Market Cap (intraday) 5,
+2566,QCOM,Enterprise Value 3,
+2567,QCOM,Trailing P/E,
+2568,QCOM,Forward P/E 1,
+2569,QCOM,PEG Ratio (5 yr expected) 1,
+2570,QCOM,Price/Sales (ttm),
+2571,QCOM,Price/Book (mrq),
+2572,QCOM,Enterprise Value/Revenue 3,
+2573,QCOM,Enterprise Value/EBITDA 7,
+2574,QRVO,Market Cap (intraday) 5,16.82B
+2575,QRVO,Enterprise Value 3,17.41B
+2576,QRVO,Trailing P/E,15.80
+2577,QRVO,Forward P/E 1,12.85
+2578,QRVO,PEG Ratio (5 yr expected) 1,1.20
+2579,QRVO,Price/Sales (ttm),3.85
+2580,QRVO,Price/Book (mrq),3.56
+2581,QRVO,Enterprise Value/Revenue 3,3.84
+2582,QRVO,Enterprise Value/EBITDA 7,10.79
+2583,RCL,Market Cap (intraday) 5,19.96B
+2584,RCL,Enterprise Value 3,38.13B
+2585,RCL,Trailing P/E,57.31
+2586,RCL,Forward P/E 1,142.86
+2587,RCL,PEG Ratio (5 yr expected) 1,
+2588,RCL,Price/Sales (ttm),32.77
+2589,RCL,Price/Book (mrq),3.09
+2590,RCL,Enterprise Value/Revenue 3,65.29
+2591,RCL,Enterprise Value/EBITDA 7,-14.06
+2592,RE,Market Cap (intraday) 5,10.94B
+2593,RE,Enterprise Value 3,11.78B
+2594,RE,Trailing P/E,10.98
+2595,RE,Forward P/E 1,8.25
+2596,RE,PEG Ratio (5 yr expected) 1,
+2597,RE,Price/Sales (ttm),1.00
+2598,RE,Price/Book (mrq),1.10
+2599,RE,Enterprise Value/Revenue 3,1.08
+2600,RE,Enterprise Value/EBITDA 7,
+2601,REG,Market Cap (intraday) 5,12.73B
+2602,REG,Enterprise Value 3,16.34B
+2603,REG,Trailing P/E,38.32
+2604,REG,Forward P/E 1,33.67
+2605,REG,PEG Ratio (5 yr expected) 1,1.67
+2606,REG,Price/Sales (ttm),11.22
+2607,REG,Price/Book (mrq),2.10
+2608,REG,Enterprise Value/Revenue 3,14.49
+2609,REG,Enterprise Value/EBITDA 7,20.49
+2610,REGN,Market Cap (intraday) 5,
+2611,REGN,Enterprise Value 3,
+2612,REGN,Trailing P/E,
+2613,REGN,Forward P/E 1,
+2614,REGN,PEG Ratio (5 yr expected) 1,
+2615,REGN,Price/Sales (ttm),
+2616,REGN,Price/Book (mrq),
+2617,REGN,Enterprise Value/Revenue 3,
+2618,REGN,Enterprise Value/EBITDA 7,
+2619,RJF,Market Cap (intraday) 5,
+2620,RJF,Enterprise Value 3,
+2621,RJF,Trailing P/E,
+2622,RJF,Forward P/E 1,
+2623,RJF,PEG Ratio (5 yr expected) 1,
+2624,RJF,Price/Sales (ttm),
+2625,RJF,Price/Book (mrq),
+2626,RJF,Enterprise Value/Revenue 3,
+2627,RJF,Enterprise Value/EBITDA 7,
+2628,RL,Market Cap (intraday) 5,9.15B
+2629,RL,Enterprise Value 3,9.58B
+2630,RL,Trailing P/E,23.16
+2631,RL,Forward P/E 1,17.12
+2632,RL,PEG Ratio (5 yr expected) 1,0.44
+2633,RL,Price/Sales (ttm),1.65
+2634,RL,Price/Book (mrq),3.20
+2635,RL,Enterprise Value/Revenue 3,1.71
+2636,RL,Enterprise Value/EBITDA 7,11.09
+2637,ROK,Market Cap (intraday) 5,40.13B
+2638,ROK,Enterprise Value 3,43.84B
+2639,ROK,Trailing P/E,29.88
+2640,ROK,Forward P/E 1,32.36
+2641,ROK,PEG Ratio (5 yr expected) 1,3.74
+2642,ROK,Price/Sales (ttm),5.79
+2643,ROK,Price/Book (mrq),16.79
+2644,ROK,Enterprise Value/Revenue 3,6.27
+2645,ROK,Enterprise Value/EBITDA 7,24.21
+2646,ROL,Market Cap (intraday) 5,
+2647,ROL,Enterprise Value 3,
+2648,ROL,Trailing P/E,
+2649,ROL,Forward P/E 1,
+2650,ROL,PEG Ratio (5 yr expected) 1,
+2651,ROL,Price/Sales (ttm),
+2652,ROL,Price/Book (mrq),
+2653,ROL,Enterprise Value/Revenue 3,
+2654,ROL,Enterprise Value/EBITDA 7,
+2655,ROP,Market Cap (intraday) 5,
+2656,ROP,Enterprise Value 3,
+2657,ROP,Trailing P/E,
+2658,ROP,Forward P/E 1,
+2659,ROP,PEG Ratio (5 yr expected) 1,
+2660,ROP,Price/Sales (ttm),
+2661,ROP,Price/Book (mrq),
+2662,ROP,Enterprise Value/Revenue 3,
+2663,ROP,Enterprise Value/EBITDA 7,
+2664,RSG,Market Cap (intraday) 5,43.88B
+2665,RSG,Enterprise Value 3,53.37B
+2666,RSG,Trailing P/E,36.51
+2667,RSG,Forward P/E 1,30.30
+2668,RSG,PEG Ratio (5 yr expected) 1,3.58
+2669,RSG,Price/Sales (ttm),4.05
+2670,RSG,Price/Book (mrq),4.95
+2671,RSG,Enterprise Value/Revenue 3,4.89
+2672,RSG,Enterprise Value/EBITDA 7,17.51
+2673,SBAC,Market Cap (intraday) 5,37.96B
+2674,SBAC,Enterprise Value 3,51.87B
+2675,SBAC,Trailing P/E,134.27
+2676,SBAC,Forward P/E 1,76.92
+2677,SBAC,PEG Ratio (5 yr expected) 1,
+2678,SBAC,Price/Sales (ttm),17.82
+2679,SBAC,Price/Book (mrq),
+2680,SBAC,Enterprise Value/Revenue 3,23.06
+2681,SBAC,Enterprise Value/EBITDA 7,35.55
+2682,SBUX,Market Cap (intraday) 5,133.71B
+2683,SBUX,Enterprise Value 3,150.70B
+2684,SBUX,Trailing P/E,32.19
+2685,SBUX,Forward P/E 1,33.33
+2686,SBUX,PEG Ratio (5 yr expected) 1,3.05
+2687,SBUX,Price/Sales (ttm),4.65
+2688,SBUX,Price/Book (mrq),
+2689,SBUX,Enterprise Value/Revenue 3,5.19
+2690,SBUX,Enterprise Value/EBITDA 7,20.50
+2691,SCHW,Market Cap (intraday) 5,156.81B
+2692,SCHW,Enterprise Value 3,
+2693,SCHW,Trailing P/E,31.42
+2694,SCHW,Forward P/E 1,23.87
+2695,SCHW,PEG Ratio (5 yr expected) 1,1.16
+2696,SCHW,Price/Sales (ttm),8.69
+2697,SCHW,Price/Book (mrq),3.30
+2698,SCHW,Enterprise Value/Revenue 3,
+2699,SCHW,Enterprise Value/EBITDA 7,
+2700,SEE,Market Cap (intraday) 5,9.60B
+2701,SEE,Enterprise Value 3,13.08B
+2702,SEE,Trailing P/E,21.74
+2703,SEE,Forward P/E 1,16.00
+2704,SEE,PEG Ratio (5 yr expected) 1,
+2705,SEE,Price/Sales (ttm),1.87
+2706,SEE,Price/Book (mrq),75.18
+2707,SEE,Enterprise Value/Revenue 3,2.45
+2708,SEE,Enterprise Value/EBITDA 7,12.90
+2709,SNA,Market Cap (intraday) 5,11.66B
+2710,SNA,Enterprise Value 3,12.16B
+2711,SNA,Trailing P/E,14.82
+2712,SNA,Forward P/E 1,15.43
+2713,SNA,PEG Ratio (5 yr expected) 1,1.58
+2714,SNA,Price/Sales (ttm),2.61
+2715,SNA,Price/Book (mrq),2.88
+2716,SNA,Enterprise Value/Revenue 3,2.66
+2717,SNA,Enterprise Value/EBITDA 7,9.95
+2718,SO,Market Cap (intraday) 5,
+2719,SO,Enterprise Value 3,
+2720,SO,Trailing P/E,
+2721,SO,Forward P/E 1,
+2722,SO,PEG Ratio (5 yr expected) 1,
+2723,SO,Price/Sales (ttm),
+2724,SO,Price/Book (mrq),
+2725,SO,Enterprise Value/Revenue 3,
+2726,SO,Enterprise Value/EBITDA 7,
+2727,SPGI,Market Cap (intraday) 5,109.54B
+2728,SPGI,Enterprise Value 3,108.26B
+2729,SPGI,Trailing P/E,39.18
+2730,SPGI,Forward P/E 1,31.06
+2731,SPGI,PEG Ratio (5 yr expected) 1,2.96
+2732,SPGI,Price/Sales (ttm),13.60
+2733,SPGI,Price/Book (mrq),59.37
+2734,SPGI,Enterprise Value/Revenue 3,13.41
+2735,SPGI,Enterprise Value/EBITDA 7,25.60
+2736,STE,Market Cap (intraday) 5,22.81B
+2737,STE,Enterprise Value 3,26.07B
+2738,STE,Trailing P/E,80.00
+2739,STE,Forward P/E 1,26.25
+2740,STE,PEG Ratio (5 yr expected) 1,2.14
+2741,STE,Price/Sales (ttm),5.39
+2742,STE,Price/Book (mrq),3.49
+2743,STE,Enterprise Value/Revenue 3,6.77
+2744,STE,Enterprise Value/EBITDA 7,36.35
+2745,STT,Market Cap (intraday) 5,34.13B
+2746,STT,Enterprise Value 3,
+2747,STT,Trailing P/E,13.75
+2748,STT,Forward P/E 1,11.06
+2749,STT,PEG Ratio (5 yr expected) 1,1.18
+2750,STT,Price/Sales (ttm),3.06
+2751,STT,Price/Book (mrq),1.35
+2752,STT,Enterprise Value/Revenue 3,
+2753,STT,Enterprise Value/EBITDA 7,
+2754,STX,Market Cap (intraday) 5,22.50B
+2755,STX,Enterprise Value 3,26.64B
+2756,STX,Trailing P/E,14.90
+2757,STX,Forward P/E 1,11.55
+2758,STX,PEG Ratio (5 yr expected) 1,1.20
+2759,STX,Price/Sales (ttm),2.09
+2760,STX,Price/Book (mrq),37.43
+2761,STX,Enterprise Value/Revenue 3,2.32
+2762,STX,Enterprise Value/EBITDA 7,11.63
+2763,SWK,Market Cap (intraday) 5,30.93B
+2764,SWK,Enterprise Value 3,35.78B
+2765,SWK,Trailing P/E,17.12
+2766,SWK,Forward P/E 1,15.95
+2767,SWK,PEG Ratio (5 yr expected) 1,
+2768,SWK,Price/Sales (ttm),1.81
+2769,SWK,Price/Book (mrq),2.93
+2770,SWK,Enterprise Value/Revenue 3,2.08
+2771,SWK,Enterprise Value/EBITDA 7,12.57
+2772,SWKS,Market Cap (intraday) 5,25.93B
+2773,SWKS,Enterprise Value 3,27.14B
+2774,SWKS,Trailing P/E,17.51
+2775,SWKS,Forward P/E 1,13.57
+2776,SWKS,PEG Ratio (5 yr expected) 1,1.10
+2777,SWKS,Price/Sales (ttm),5.13
+2778,SWKS,Price/Book (mrq),4.90
+2779,SWKS,Enterprise Value/Revenue 3,5.31
+2780,SWKS,Enterprise Value/EBITDA 7,13.25
+2781,SYF,Market Cap (intraday) 5,27.20B
+2782,SYF,Enterprise Value 3,
+2783,SYF,Trailing P/E,7.03
+2784,SYF,Forward P/E 1,8.61
+2785,SYF,PEG Ratio (5 yr expected) 1,0.76
+2786,SYF,Price/Sales (ttm),1.88
+2787,SYF,Price/Book (mrq),2.06
+2788,SYF,Enterprise Value/Revenue 3,
+2789,SYF,Enterprise Value/EBITDA 7,
+2790,SYK,Market Cap (intraday) 5,96.25B
+2791,SYK,Enterprise Value 3,106.26B
+2792,SYK,Trailing P/E,51.34
+2793,SYK,Forward P/E 1,25.00
+2794,SYK,PEG Ratio (5 yr expected) 1,2.17
+2795,SYK,Price/Sales (ttm),5.85
+2796,SYK,Price/Book (mrq),6.79
+2797,SYK,Enterprise Value/Revenue 3,6.37
+2798,SYK,Enterprise Value/EBITDA 7,29.45
+2799,SYY,Market Cap (intraday) 5,39.13B
+2800,SYY,Enterprise Value 3,48.99B
+2801,SYY,Trailing P/E,57.39
+2802,SYY,Forward P/E 1,21.51
+2803,SYY,PEG Ratio (5 yr expected) 1,0.70
+2804,SYY,Price/Sales (ttm),0.70
+2805,SYY,Price/Book (mrq),23.39
+2806,SYY,Enterprise Value/Revenue 3,0.88
+2807,SYY,Enterprise Value/EBITDA 7,19.19
+2808,TAP,Market Cap (intraday) 5,10.28B
+2809,TAP,Enterprise Value 3,16.88B
+2810,TAP,Trailing P/E,18.78
+2811,TAP,Forward P/E 1,10.72
+2812,TAP,PEG Ratio (5 yr expected) 1,1.32
+2813,TAP,Price/Sales (ttm),1.03
+2814,TAP,Price/Book (mrq),0.77
+2815,TAP,Enterprise Value/Revenue 3,1.70
+2816,TAP,Enterprise Value/EBITDA 7,25.41
+2817,TPR,Market Cap (intraday) 5,
+2818,TPR,Enterprise Value 3,
+2819,TPR,Trailing P/E,
+2820,TPR,Forward P/E 1,
+2821,TPR,PEG Ratio (5 yr expected) 1,
+2822,TPR,Price/Sales (ttm),
+2823,TPR,Price/Book (mrq),
+2824,TPR,Enterprise Value/Revenue 3,
+2825,TPR,Enterprise Value/EBITDA 7,
+2826,UNH,Market Cap (intraday) 5,
+2827,UNH,Enterprise Value 3,
+2828,UNH,Trailing P/E,
+2829,UNH,Forward P/E 1,
+2830,UNH,PEG Ratio (5 yr expected) 1,
+2831,UNH,Price/Sales (ttm),
+2832,UNH,Price/Book (mrq),
+2833,UNH,Enterprise Value/Revenue 3,
+2834,UNH,Enterprise Value/EBITDA 7,
+2835,VIAC,Market Cap (intraday) 5,
+2836,VIAC,Enterprise Value 3,
+2837,VIAC,Trailing P/E,
+2838,VIAC,Forward P/E 1,
+2839,VIAC,PEG Ratio (5 yr expected) 1,
+2840,VIAC,Price/Sales (ttm),
+2841,VIAC,Price/Book (mrq),
+2842,VIAC,Enterprise Value/Revenue 3,
+2843,VIAC,Enterprise Value/EBITDA 7,
+2844,VTR,Market Cap (intraday) 5,
+2845,VTR,Enterprise Value 3,
+2846,VTR,Trailing P/E,
+2847,VTR,Forward P/E 1,
+2848,VTR,PEG Ratio (5 yr expected) 1,
+2849,VTR,Price/Sales (ttm),
+2850,VTR,Price/Book (mrq),
+2851,VTR,Enterprise Value/Revenue 3,
+2852,VTR,Enterprise Value/EBITDA 7,
+2853,VTRS,Market Cap (intraday) 5,
+2854,VTRS,Enterprise Value 3,
+2855,VTRS,Trailing P/E,
+2856,VTRS,Forward P/E 1,
+2857,VTRS,PEG Ratio (5 yr expected) 1,
+2858,VTRS,Price/Sales (ttm),
+2859,VTRS,Price/Book (mrq),
+2860,VTRS,Enterprise Value/Revenue 3,
+2861,VTRS,Enterprise Value/EBITDA 7,
+2862,WAB,Market Cap (intraday) 5,
+2863,WAB,Enterprise Value 3,
+2864,WAB,Trailing P/E,
+2865,WAB,Forward P/E 1,
+2866,WAB,PEG Ratio (5 yr expected) 1,
+2867,WAB,Price/Sales (ttm),
+2868,WAB,Price/Book (mrq),
+2869,WAB,Enterprise Value/Revenue 3,
+2870,WAB,Enterprise Value/EBITDA 7,
+2871,WDC,Market Cap (intraday) 5,
+2872,WDC,Enterprise Value 3,
+2873,WDC,Trailing P/E,
+2874,WDC,Forward P/E 1,
+2875,WDC,PEG Ratio (5 yr expected) 1,
+2876,WDC,Price/Sales (ttm),
+2877,WDC,Price/Book (mrq),
+2878,WDC,Enterprise Value/Revenue 3,
+2879,WDC,Enterprise Value/EBITDA 7,
+2880,WEC,Market Cap (intraday) 5,
+2881,WEC,Enterprise Value 3,
+2882,WEC,Trailing P/E,
+2883,WEC,Forward P/E 1,
+2884,WEC,PEG Ratio (5 yr expected) 1,
+2885,WEC,Price/Sales (ttm),
+2886,WEC,Price/Book (mrq),
+2887,WEC,Enterprise Value/Revenue 3,
+2888,WEC,Enterprise Value/EBITDA 7,
+2889,WELL,Market Cap (intraday) 5,
+2890,WELL,Enterprise Value 3,
+2891,WELL,Trailing P/E,
+2892,WELL,Forward P/E 1,
+2893,WELL,PEG Ratio (5 yr expected) 1,
+2894,WELL,Price/Sales (ttm),
+2895,WELL,Price/Book (mrq),
+2896,WELL,Enterprise Value/Revenue 3,
+2897,WELL,Enterprise Value/EBITDA 7,
+2898,WST,Market Cap (intraday) 5,
+2899,WST,Enterprise Value 3,
+2900,WST,Trailing P/E,
+2901,WST,Forward P/E 1,
+2902,WST,PEG Ratio (5 yr expected) 1,
+2903,WST,Price/Sales (ttm),
+2904,WST,Price/Book (mrq),
+2905,WST,Enterprise Value/Revenue 3,
+2906,WST,Enterprise Value/EBITDA 7,
+2907,WU,Market Cap (intraday) 5,
+2908,WU,Enterprise Value 3,
+2909,WU,Trailing P/E,
+2910,WU,Forward P/E 1,
+2911,WU,PEG Ratio (5 yr expected) 1,
+2912,WU,Price/Sales (ttm),
+2913,WU,Price/Book (mrq),
+2914,WU,Enterprise Value/Revenue 3,
+2915,WU,Enterprise Value/EBITDA 7,
+2916,WYNN,Market Cap (intraday) 5,
+2917,WYNN,Enterprise Value 3,
+2918,WYNN,Trailing P/E,
+2919,WYNN,Forward P/E 1,
+2920,WYNN,PEG Ratio (5 yr expected) 1,
+2921,WYNN,Price/Sales (ttm),
+2922,WYNN,Price/Book (mrq),
+2923,WYNN,Enterprise Value/Revenue 3,
+2924,WYNN,Enterprise Value/EBITDA 7,
+2925,XLNX,Market Cap (intraday) 5,
+2926,XLNX,Enterprise Value 3,
+2927,XLNX,Trailing P/E,
+2928,XLNX,Forward P/E 1,
+2929,XLNX,PEG Ratio (5 yr expected) 1,
+2930,XLNX,Price/Sales (ttm),
+2931,XLNX,Price/Book (mrq),
+2932,XLNX,Enterprise Value/Revenue 3,
+2933,XLNX,Enterprise Value/EBITDA 7,
+2934,XOM,Market Cap (intraday) 5,
+2935,XOM,Enterprise Value 3,
+2936,XOM,Trailing P/E,
+2937,XOM,Forward P/E 1,
+2938,XOM,PEG Ratio (5 yr expected) 1,
+2939,XOM,Price/Sales (ttm),
+2940,XOM,Price/Book (mrq),
+2941,XOM,Enterprise Value/Revenue 3,
+2942,XOM,Enterprise Value/EBITDA 7,
+2943,ZBH,Market Cap (intraday) 5,
+2944,ZBH,Enterprise Value 3,
+2945,ZBH,Trailing P/E,
+2946,ZBH,Forward P/E 1,
+2947,ZBH,PEG Ratio (5 yr expected) 1,
+2948,ZBH,Price/Sales (ttm),
+2949,ZBH,Price/Book (mrq),
+2950,ZBH,Enterprise Value/Revenue 3,
+2951,ZBH,Enterprise Value/EBITDA 7,
